@@ -4,13 +4,11 @@ navbar:
   title: "Bronson Hui"
   left:
     - text: "Qualifications"
-      href: research.html
+      href: Qualifications.html
     - text: "Publications"
-      href: talks.html
-    - text: "Research"
-      href: teaching.html
+      href: Publications.html
     - text: "Teaching"
-      href: software.html
+      href: Teaching.html
     - text: "R for SLA"
       href: teaching.html
    
