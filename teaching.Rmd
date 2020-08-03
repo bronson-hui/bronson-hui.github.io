@@ -1,10 +1,13 @@
-# Teaching
+---
+title: "Teaching"
+---
+
 
 ## Graduate-level
 
 * Michigan State University
 
-  +Fall, 2019 *LLT 873 Quantitative Research Methods in SLS* (co-teaching with Prof. Shawn Loewen)
+  + Fall, 2019 *LLT 873 Quantitative Research Methods in SLS* (co-teaching with Prof. Shawn Loewen)
 
 ## Undergraduate-level
 
