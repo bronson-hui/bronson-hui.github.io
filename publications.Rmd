@@ -1,7 +1,3 @@
----
-
----
-
 # Publications
 
 <img src="images/preregistered.png" width="25" height="25">, <img src="images/open-data.png" width="25" height="25">, and <img src="images/open-materials.png" width="25" height="25"> denote the Open Science badges that I earned to support pre-registration, open data, and open materials in research, respectively (see the list of journals that offer Open Science Badges [here](https://www.cos.io/our-services/badges)).
