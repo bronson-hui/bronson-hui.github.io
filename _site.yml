@@ -4,13 +4,15 @@ navbar:
   title: "Bronson Hui"
   left:
     - text: "Qualifications"
-      href: Qualifications.html
+      href: qualifications.html
     - text: "Publications"
-      href: Publications.html
+      href: publications.html
     - text: "Teaching"
-      href: Teaching.html
-    - text: "R for SLA"
       href: teaching.html
+    - text: "R for SLA"
+      href: r4sla.html
+    - text: "CV"
+      href: cv_hui.pdf
    
 
 output:

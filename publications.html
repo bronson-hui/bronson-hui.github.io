@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>publications.utf8</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Bronson Hui</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="qualifications.html">Qualifications</a>
+</li>
+<li>
+  <a href="publications.html">Publications</a>
+</li>
+<li>
+  <a href="teaching.html">Teaching</a>
+</li>
+<li>
+  <a href="r4sla.html">R for SLA</a>
+</li>
+<li>
+  <a href="cv_hui.pdf">CV</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<hr />
+<hr />
+<div id="publications" class="section level1">
+<h1>Publications</h1>
+<p><img src="images/preregistered.png" width="25" height="25">, <img src="images/open-data.png" width="25" height="25">, and <img src="images/open-materials.png" width="25" height="25"> denote the Open Science badges that I earned to support pre-registration, open data, and open materials in research, respectively (see the list of journals that offer Open Science Badges <a href="https://www.cos.io/our-services/badges">here</a>).</p>
+<div id="journal-articles" class="section level2">
+<h2>Journal articles</h2>
+<p>Hui, B. &amp; Godfroid, A. (2020). Testing the role of processing speed and automaticity in second language listening. <em>Applied Psycholinguistics</em>. <a href="https://doi.org/10.1017/S0142716420000193" class="uri">https://doi.org/10.1017/S0142716420000193</a>. Advance online publication. (<a href="http://doi.org/10.17605/OSF.IO/35VFX">OSF project link</a> with materials and data)</p>
+<p>Godfroid, A. &amp; Hui, B. (2020). Five pitfalls in eye-tracking research. <em>Second Language Research</em>. <a href="https://doi.org/10.1177/2F0267658320921218" class="uri">https://doi.org/10.1177/2F0267658320921218</a>. Advance online publication.</p>
+<p>Hui, B. (2020). Processing variability in intentional and incidental word learning: An extension of Solovyeva and DeKeyser (2018). <em>Studies in Second Language Acquisition, 42</em>(2), 327-357. <a href="https://doi.org/10.1017/S0272263119000603" class="uri">https://doi.org/10.1017/S0272263119000603</a> <img src="images/open-data.png" width="25" height="25"> <img src="images/open-materials.png" width="25" height="25"> (<a href="http://doi.org/10.17605/OSF.IO/2TA7M">OSF project link</a> with materials, data, and preprint).</p>
+<p>Wang, X., Hui, B., Chen, S. (2020). Language selective or non-selective in bilingual lexical access? It depends on lexical tones!. <em>PLoS ONE, 15</em>(3), e0230412. <a href="https://doi.org/10.1371/journal.pone.0230412" class="uri">https://doi.org/10.1371/journal.pone.0230412</a> (Data and materials available on <a href="https://doi.org/10.1371/journal.pone.0230412.s001">PLoS ONE</a>)</p>
+<p>Hui, B. (2019). Analyzing processing time data in Applied Linguistics and second language research: a multivariate mixed effects approach. <em>Journal of Research Design and Statistics in Linguistics and Communication Science, 5</em>(1-2), 189-207. <a href="https://doi.org/10.1558/jrds.39117" class="uri">https://doi.org/10.1558/jrds.39117</a></p>
+<p>Hui, B. (2010). Backward transfer from L3 French to L2 English production of relative clauses by L1 Cantonese speakers in Hong Kong. <em>Hong Kong Journal of Applied Linguistics, 12</em>(2), 45–60. (<a href="http://caes.hku.hk/hkjalonline/issues/?guest_id=fa0f4c561c85193b7c0d4c2f2e20e579bddffa71727e481694bca5cd8ce557d2&amp;file=2010_v12_2_hui.pdf">Full Text</a>)</p>
+</div>
+<div id="data-publications" class="section level2">
+<h2>Data publications <img src="images/open-data.png" width="25" height="25"></h2>
+<p>Hui, B. (2020). Data and codebook for Studies in Second Language Acquisition article: Processing variability in intentional and incidental word learning: An extension of Solovyeva and DeKeyser (2018) [Data set]. Open Science Framework. <a href="http://doi.org/10.17605/OSF.IO/2TA7M" class="uri">http://doi.org/10.17605/OSF.IO/2TA7M</a></p>
+<p>Hui, B. &amp; Godfroid, A. (2020). Data and codebook for Applied Psycholinguistics article: Testing the role of processing speed and automaticity in second language listening [Data set]. Open Science Framework. <a href="http://doi.org/10.17605/OSF.IO/35VFX" class="uri">http://doi.org/10.17605/OSF.IO/35VFX</a></p>
+<p>Wang, X., Hui, B., &amp; Chen, S. (2020). Data for PLoS ONE article: Language selective or non-selective in bilingual lexical access? It depends on lexical tones! [Data set]. PLoS ONE. <a href="https://doi.org/10.1371/journal.pone.0230412.s001" class="uri">https://doi.org/10.1371/journal.pone.0230412.s001</a></p>
+</div>
+<div id="selected-research-papers-and-presentations" class="section level2">
+<h2>Selected research papers and presentations</h2>
+<p>Hui, B. &amp; Rudzewitz, B. (2019, September). Learning through automatic corrective feedback in a smart exercise book: interaction patterns and learning outcomes. Presentation at Secodn Language Research (SLRF), East Lansing, MI, USA.</p>
+<p>Hui, B. (2019, March). The contribution of processing automaticity to second language listening. Presentation at AAAL 2019, Atlanta, GA, USA.</p>
+<p>Hui, B. (2018, October). Processing variability in novel word learning. Paper presented at Second Language Research Forum (SLRF), Montreal, Canada.</p>
+<p>Godfroid, A., Kim, M. H., Hui, B., &amp; Isbell, D. (2018, September). Validating implicit and explicit L2 knowledge measures: A research synthesis. Paper presented at EuroSLA 28, Munster, Germany.</p>
+<p>Hui, B. (2018, September). The contribution of processing automaticity to second language listening. Presentation at EuroSLA 28, Munster, Germany.</p>
+<p>Hui, B., &amp; Fung, D. (2016). To know is not to use: The gap between students’ productive vocabulary knowledge and their actual use in free writing. Collection of Reports: Educational Research Award Scheme 14/15, (pp. 81-103). Hong Kong Teachers’ Centre: Hong Kong. (<a href="www.edb.org.hk/HKTC/download/eras/14-15/ERAS1415_R04.pdf">Full Text</a>)</p>
+<p>Hui, B., Wong, S. S. Y., &amp; Fung, D. (2016). Different amount of L1 support in vocabulary learning through reading: The effects of gloss and bilingual texts. In F. K. C. Lee, P. C. W. Lee, K. S. M. Leung, &amp; K. C. Li (Eds), Proceeding of the Second International Conference on Linguistics and Language Studies (ICLLS), (pp. 86-94). Hong Kong. (<a href="http://media.wix.com/ugd/2b7f97_3211456c5d714731b3e2f4d1db36203d.pdf">Full Text</a>)</p>
+<p>Wang, X., &amp; Hui, B. (2013, September). The role of Mandarin tone in bilingual processing. Paper presented at AMLAP-Architecture and Mechanism of Language Processing, Marseille, France.</p>
+</div>
+<div id="book-reviews" class="section level2">
+<h2>Book reviews</h2>
+<p>Hui, B. (2017). Review of the book First and Second Language Use in Asian EFL, by R. Forman. System, 65, 181-182. <a href="https://doi.org/10.1016/j.system.2017.01.004" class="uri">https://doi.org/10.1016/j.system.2017.01.004</a>.</p>
+<p>Hui, B. (2017). Review of the book Peer interaction and second language learning: pedagogical potential and research agenda, M. Sato &amp; S. Ballinger (Eds). Linguist List, 28. (<a href="http://linguistlist.org/issues/28/28-978.html">Full Text</a>)</p>
+<p>Hui, B. (2016). Review of the book Explicit learning in the L2 classroom: a student-centered approach, by Ronald P. Leow. System, 60, 135-136. <a href="https://doi.org/10.1016/j.system.2016.05.005" class="uri">https://doi.org/10.1016/j.system.2016.05.005</a></p>
+<p>Hui, B. (2016). Review of the book The pedagogy of English as an international language: Perspectives from scholars, teachers, and students, R. Marlin, &amp; R. A. Giri (Eds). Asian Journal of Applied Linguistics, 3(2), 220-221. (<a href="http://www3.caes.hku.hk/ajal/index.php/ajal/article/view/399/435">Full Text</a>)</p>
+<p>Hui, B. (2015). Review of the book TESOL: A guide, by J. Liu &amp; C. M. Berger. System, 55, 163-165. <a href="https://doi.org/10.1016/j.system.2015.08.008" class="uri">https://doi.org/10.1016/j.system.2015.08.008</a>.</p>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
