@@ -1,0 +1,24 @@
+---
+title: "Service"
+---
+
+## Ongoing Roles
+  * Graduate Assistant (Statistical Consultant), Center for Statistical Training and Consulting (CSTAT), MSU. (Summer 2020)
+  * Ad-hoc reviewer for journals (Language Learning, TESOL Quarterly, and Reading in a Foreign Language) and conferences (Second Language Research Forum [SLRF], 2019, 2020)
+  * Associate of Social Science Data Analytics (SSDA) (MSU)
+
+## Past Roles
+  * Research assistant to Dr Aline Godfroid at MSU (2017 – 2019);
+  * Co-editor of the Michigan State University Working Papers in Second Language Studies (2018 – 2019);
+  * Coordinator Donuts and Distribution (Quantitative Methods Reading Group, SLS, MSU) (2018 – 2019)
+  * Lab manager of the SLA lab at MSU (2017 – 2018)
+  * Abstract evaluation coordinator, Second Language Research Forum (SLRF), 2019 (2018 – 2019)
+
+## Workshops
+  * Hui, B. (2020). Analyzing eye-tracking data. [a series of workshops]. Department of Language and Linguistics, University of Essex, September, 2020. 
+  * Hui, B. & Calvert, S. (2020). Data management and sharing in L2 research: why and how [a two-hour workshop]. Donuts and Distribution (Quant methods reading group), Second Language Studies, Michigan State University, February, 2020. 
+  * Hui, B. (2019). Multilevel (mixed-effects) modelling using R [a three-hour workshop]. Social Science Data Analytics, Michigan State University, November, 2019.
+  * Hui, B. (2018). Introduction to R [a one-hour workshop]. Donuts and Distribution (Quant methods reading group), Second Language Studies, Michigan State University, October, 2018.
+  * Hui, B. (2018). Introduction to R [a series of one-hour workshops]. Second Language Studies, Michigan State University, April–July, 2018. 
+
+

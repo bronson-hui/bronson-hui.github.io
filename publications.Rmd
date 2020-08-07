@@ -6,52 +6,52 @@ title: "Publications"
 
 ## Journal articles
 
-Hui, B. & Godfroid, A. (2020). Testing the role of processing speed and automaticity in second language listening. *Applied Psycholinguistics*. <https://doi.org/10.1017/S0142716420000193>. Advance online publication. ([OSF project link](http://doi.org/10.17605/OSF.IO/35VFX) with materials and data)
+Godfroid, A. & **Hui, B.** (2020). Five pitfalls in eye-tracking research. *Second Language Research, 36*(3), 277-305. <https://doi.org/10.1177/0267658320921218>. 
 
-Godfroid, A. & Hui, B. (2020). Five pitfalls in eye-tracking research. *Second Language Research*. <https://doi.org/10.1177/2F0267658320921218>. Advance online publication.
+**Hui, B.** & Godfroid, A. (2020). Testing the role of processing speed and automaticity in second language listening. *Applied Psycholinguistics*. <https://doi.org/10.1017/S0142716420000193>. Advance online publication. ([OSF project link](http://doi.org/10.17605/OSF.IO/35VFX) with materials and data)
 
-Hui, B. (2020). Processing variability in intentional and incidental word learning: An extension of Solovyeva and DeKeyser (2018). *Studies in Second Language Acquisition, 42*(2), 327-357. <https://doi.org/10.1017/S0272263119000603> <img src="images/open-data.png" width="25" height="25"> <img src="images/open-materials.png" width="25" height="25"> ([OSF project link](http://doi.org/10.17605/OSF.IO/2TA7M) with materials, data, and preprint).
+**Hui, B.** (2020). Processing variability in intentional and incidental word learning: An extension of Solovyeva and DeKeyser (2018). *Studies in Second Language Acquisition, 42*(2), 327-357. <https://doi.org/10.1017/S0272263119000603> <img src="images/open-data.png" width="25" height="25"> <img src="images/open-materials.png" width="25" height="25"> ([OSF project link](http://doi.org/10.17605/OSF.IO/2TA7M) with materials, data, and preprint).
 
-Wang, X., Hui, B., Chen, S. (2020). Language selective or non-selective in bilingual lexical access? It depends on lexical tones!. *PLoS ONE, 15*(3), e0230412. <https://doi.org/10.1371/journal.pone.0230412> (Data and materials available on [PLoS ONE](https://doi.org/10.1371/journal.pone.0230412.s001))
+Wang, X., **Hui, B.**, Chen, S. (2020). Language selective or non-selective in bilingual lexical access? It depends on lexical tones!. *PLoS ONE, 15*(3), e0230412. <https://doi.org/10.1371/journal.pone.0230412> (Data and materials available on [PLoS ONE](https://doi.org/10.1371/journal.pone.0230412.s001))
 
-Hui, B. (2019). Analyzing processing time data in Applied Linguistics and second language research: a multivariate mixed effects approach. *Journal of Research Design and Statistics in Linguistics and Communication Science, 5*(1-2), 189-207. <https://doi.org/10.1558/jrds.39117>
+**Hui, B.** (2019). Analyzing processing time data in Applied Linguistics and second language research: a multivariate mixed effects approach. *Journal of Research Design and Statistics in Linguistics and Communication Science, 5*(1-2), 189-207. <https://doi.org/10.1558/jrds.39117>
 
-Hui, B. (2010). Backward transfer from L3 French to L2 English production of relative clauses by L1 Cantonese speakers in Hong Kong. *Hong Kong Journal of Applied Linguistics, 12*(2), 45–60. ([Full Text](http://caes.hku.hk/hkjalonline/issues/?guest_id=fa0f4c561c85193b7c0d4c2f2e20e579bddffa71727e481694bca5cd8ce557d2&file=2010_v12_2_hui.pdf))
+**Hui, B.** (2010). Backward transfer from L3 French to L2 English production of relative clauses by L1 Cantonese speakers in Hong Kong. *Hong Kong Journal of Applied Linguistics, 12*(2), 45–60. ([Full Text](http://caes.hku.hk/hkjalonline/issues/?guest_id=fa0f4c561c85193b7c0d4c2f2e20e579bddffa71727e481694bca5cd8ce557d2&file=2010_v12_2_hui.pdf))
 
 ## Data publications <img src="images/open-data.png" width="25" height="25">
 
-Hui, B. (2020). Data and codebook for Studies in Second Language Acquisition article: Processing variability in intentional and incidental word learning: An extension of Solovyeva and DeKeyser (2018) [Data set]. Open Science Framework. <http://doi.org/10.17605/OSF.IO/2TA7M>
+**Hui, B.** (2020). Data and codebook for Studies in Second Language Acquisition article: Processing variability in intentional and incidental word learning: An extension of Solovyeva and DeKeyser (2018) [Data set]. Open Science Framework. <http://doi.org/10.17605/OSF.IO/2TA7M>
 
-Hui, B. & Godfroid, A. (2020). Data and codebook for Applied Psycholinguistics article: Testing the role of processing speed and automaticity in second language listening [Data set]. Open Science Framework. <http://doi.org/10.17605/OSF.IO/35VFX> 
+**Hui, B.** & Godfroid, A. (2020). Data and codebook for Applied Psycholinguistics article: Testing the role of processing speed and automaticity in second language listening [Data set]. Open Science Framework. <http://doi.org/10.17605/OSF.IO/35VFX> 
 
-Wang, X., Hui, B., & Chen, S. (2020). Data for PLoS ONE article: Language selective or non-selective in bilingual lexical access? It depends on lexical tones! [Data set]. PLoS ONE. <https://doi.org/10.1371/journal.pone.0230412.s001>
+Wang, X., **Hui, B.**, & Chen, S. (2020). Data for PLoS ONE article: Language selective or non-selective in bilingual lexical access? It depends on lexical tones! [Data set]. PLoS ONE. <https://doi.org/10.1371/journal.pone.0230412.s001>
 
 ## Selected research papers and presentations
 
-Hui, B. & Rudzewitz, B. (2019, September). Learning through automatic corrective feedback in a smart exercise book: interaction patterns and learning outcomes. Presentation at Secodn Language Research (SLRF), East Lansing, MI, USA.
+**Hui, B.** & Rudzewitz, B. (2019, September). Learning through automatic corrective feedback in a smart exercise book: interaction patterns and learning outcomes. Presentation at Secodn Language Research (SLRF), East Lansing, MI, USA.
 
-Hui, B. (2019, March). The contribution of processing automaticity to second language listening. Presentation at AAAL 2019, Atlanta, GA, USA.
+**Hui, B.** (2019, March). The contribution of processing automaticity to second language listening. Presentation at AAAL 2019, Atlanta, GA, USA.
 
-Hui, B. (2018, October). Processing variability in novel word learning. Paper presented at Second Language Research Forum (SLRF), Montreal, Canada.
+**Hui, B.** (2018, October). Processing variability in novel word learning. Paper presented at Second Language Research Forum (SLRF), Montreal, Canada.
 
-Godfroid, A., Kim, M. H., Hui, B., & Isbell, D. (2018, September). Validating implicit and explicit L2 knowledge measures: A research synthesis. Paper presented at EuroSLA 28, Munster, Germany.
+Godfroid, A., Kim, M. H., **Hui, B.**, & Isbell, D. (2018, September). Validating implicit and explicit L2 knowledge measures: A research synthesis. Paper presented at EuroSLA 28, Munster, Germany.
 
-Hui, B. (2018, September). The contribution of processing automaticity to second language listening. Presentation at EuroSLA 28, Munster, Germany.
+**Hui, B.** (2018, September). The contribution of processing automaticity to second language listening. Presentation at EuroSLA 28, Munster, Germany.
 
-Hui, B., & Fung, D. (2016). To know is not to use: The gap between students’ productive vocabulary knowledge and their actual use in free writing. Collection of Reports: Educational Research Award Scheme 14/15, (pp. 81-103). Hong Kong Teachers’ Centre: Hong Kong. ([Full Text](www.edb.org.hk/HKTC/download/eras/14-15/ERAS1415_R04.pdf))
+**Hui, B.**, & Fung, D. (2016). To know is not to use: The gap between students’ productive vocabulary knowledge and their actual use in free writing. Collection of Reports: Educational Research Award Scheme 14/15, (pp. 81-103). Hong Kong Teachers’ Centre: Hong Kong. ([Full Text](www.edb.org.hk/HKTC/download/eras/14-15/ERAS1415_R04.pdf))
 
-Hui, B., Wong, S. S. Y., & Fung, D. (2016). Different amount of L1 support in vocabulary learning through reading: The effects of gloss and bilingual texts. In F. K. C. Lee, P. C. W. Lee, K. S. M. Leung, & K. C. Li (Eds), Proceeding of the Second International Conference on Linguistics and Language Studies (ICLLS), (pp. 86-94). Hong Kong. ([Full Text](http://media.wix.com/ugd/2b7f97_3211456c5d714731b3e2f4d1db36203d.pdf))
+**Hui, B.**, Wong, S. S. Y., & Fung, D. (2016). Different amount of L1 support in vocabulary learning through reading: The effects of gloss and bilingual texts. In F. K. C. Lee, P. C. W. Lee, K. S. M. Leung, & K. C. Li (Eds), Proceeding of the Second International Conference on Linguistics and Language Studies (ICLLS), (pp. 86-94). Hong Kong. ([Full Text](http://media.wix.com/ugd/2b7f97_3211456c5d714731b3e2f4d1db36203d.pdf))
 
-Wang, X., & Hui, B. (2013, September). The role of Mandarin tone in bilingual processing. Paper presented at AMLAP-Architecture and Mechanism of Language Processing, Marseille, France.
+Wang, X., & **ui, B.** (2013, September). The role of Mandarin tone in bilingual processing. Paper presented at AMLAP-Architecture and Mechanism of Language Processing, Marseille, France.
 
 ## Book reviews
 
-Hui, B. (2017). Review of the book First and Second Language Use in Asian EFL, by R. Forman. System, 65, 181-182. <https://doi.org/10.1016/j.system.2017.01.004>.
+**Hui, B.** (2017). Review of the book First and Second Language Use in Asian EFL, by R. Forman. System, 65, 181-182. <https://doi.org/10.1016/j.system.2017.01.004>.
 
-Hui, B. (2017). Review of the book Peer interaction and second language learning: pedagogical potential and research agenda, M. Sato & S. Ballinger (Eds). Linguist List, 28. ([Full Text](http://linguistlist.org/issues/28/28-978.html))
+**Hui, B.** (2017). Review of the book Peer interaction and second language learning: pedagogical potential and research agenda, M. Sato & S. Ballinger (Eds). Linguist List, 28. ([Full Text](http://linguistlist.org/issues/28/28-978.html))
 
-Hui, B. (2016). Review of the book Explicit learning in the L2 classroom: a student-centered approach, by Ronald P. Leow. System, 60, 135-136. <https://doi.org/10.1016/j.system.2016.05.005>
+**Hui, B.** (2016). Review of the book Explicit learning in the L2 classroom: a student-centered approach, by Ronald P. Leow. System, 60, 135-136. <https://doi.org/10.1016/j.system.2016.05.005>
 
-Hui, B. (2016). Review of the book The pedagogy of English as an international language: Perspectives from scholars, teachers, and students, R. Marlin, & R. A. Giri (Eds). Asian Journal of Applied Linguistics, 3(2), 220-221. ([Full Text](http://www3.caes.hku.hk/ajal/index.php/ajal/article/view/399/435)) 
+**Hui, B.** (2016). Review of the book The pedagogy of English as an international language: Perspectives from scholars, teachers, and students, R. Marlin, & R. A. Giri (Eds). Asian Journal of Applied Linguistics, 3(2), 220-221. ([Full Text](http://www3.caes.hku.hk/ajal/index.php/ajal/article/view/399/435)) 
 
-Hui, B. (2015). Review of the book TESOL: A guide, by J. Liu & C. M. Berger. System, 55, 163-165. <https://doi.org/10.1016/j.system.2015.08.008>. 
+**Hui, B.** (2015). Review of the book TESOL: A guide, by J. Liu & C. M. Berger. System, 55, 163-165. <https://doi.org/10.1016/j.system.2015.08.008>. 
