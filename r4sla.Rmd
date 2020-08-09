@@ -1,0 +1,70 @@
+---
+title: "R for SLA"
+
+output: 
+  html_document: 
+    toc: true
+    toc_float: true
+    number_sections: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# This page is currently under construction
+# Introduction
+
+Given the power of R, I consider myself a competent beginner. I have learned a lot from my peers and the texts below. Here, I am sharing some resources and codes that I have been using. This is not meant to be a stats course, but merely technical support to a grad-level intro-to-stats class. I am a second language psycholinguist by training, so researchers in this field might find my examples more relevant. In R, as in all programming languages, there are always multiple ways to achieve the same goal. Please let me know if I have been doing something incorrectly or if I have chosen the difficult ways.
+
+## Useful resources
+
+<http://rcompanion.org/handbook/>
+
+<http://www.cookbook-r.com/>
+
+<http://www.r-bloggers.com/>
+
+<https://rafalab.github.io/dsbook/>
+
+<http://www.rstudio.com/resources/cheasheets>
+
+Gries, S. Th. (2013). [Statistics for Linguistics with R: A Practical Introduction: A Practical Introduction (2nd ed)](https://www.amazon.com/Statistics-Linguistics-R-Mouton-Textbook/dp/3110307286/)
+Larson-Hall, J. (2015). [A Guide to Doing Statistics in Second Language Research Using SPSS and R (2nd ed)](https://www.amazon.com/Statistics-Second-Language-Research-Acquisition-dp-1138024570/)
+Loerts, H., Lowie, W., & Seton, B. (2020). [Essential Statistics for Applied Linguistics: Using R or JASP (2nd ed)](https://www.amazon.com/Essential-Statistics-Applied-Linguistics-Using/dp/1352007819)
+
+Google is always your friend. Whatever issues you are having are likely to have been encountered by someone else.
+
+# The Basics
+## Installation
+You would want to first download R, install it before you install R Studio. R Studio lets you use scripts that you can recycle, making your life less difficult than it needs to be.
+
+R: <http://www.r-project.org/>
+
+RStudio: <http://www.rstudio.com/>
+
+## Loading, saving, and annotating scripts
+
+Just like opening any files, really. You either double click the script in the folder it is in, or you go to the `File` –> `Open` in RStudio. When you do it the first way, your Working Directory (see below) will be automatically set as the folder the script is in. To save a script, there is a save button in your Source pane. Very often, you want to comment or annotate your code. To do that, put a hash sign `#` before your annotation. R will know that they are not actual codes. You will see this often in different tutorials or learning resources, like this:
+
+```{r,  eval=FALSE}
+d<-read.csv("MyDataFile.csv") #this is how you read your CSV file to R and name it as an object called d
+```
+
+## Running codes
+Not rocket science: Hold CTRL and hit ENTER for PCs or COMMAND and RETURN for Macs.
+
+## Identifying and setting working directory
+This is probably your first line of code. The working directory is where R grabs the files you need (e.g., an excel file with your data) and save stuff to. To find out your current working directory, use this:
+
+```{r}
+getwd()
+```
+
+To set it as the folder you save everything for your analyses in R, you can do this:
+
+```{r, eval=F}
+setwd("G:/My Drive/R_Analyses/") #note the quoataion marks and FORWARD slashes
+```
+
+You can also set a default so that you don’t always need to set it prior to analysis: Under the `Tools` tab –> `Global Options` –> `General` –> `Default working directory`.
