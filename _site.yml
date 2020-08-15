@@ -11,8 +11,6 @@ navbar:
       href: teaching.html
     - text: "Service"
       href: service.html
-    - text: "R for SLA"
-      href: r4sla.html
     - text: "CV"
       href: cv_hui.pdf
    

@@ -361,9 +361,6 @@ div.tocify {
   <a href="service.html">Service</a>
 </li>
 <li>
-  <a href="r4sla.html">R for SLA</a>
-</li>
-<li>
   <a href="cv_hui.pdf">CV</a>
 </li>
       </ul>
@@ -478,7 +475,7 @@ $(document).ready(function ()  {
       theme: "bootstrap3",
       context: '.toc-content',
       hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
       },
       ignoreSelector: ".toc-ignore",
       scrollTo: 0
