@@ -22,6 +22,17 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
+<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -303,8 +314,6 @@ $(document).ready(function () {
 </div>
 
 
-<hr />
-<hr />
 <center>
 <p><link rel="stylesheet" href="styles.css" type="text/css"></p>
 <p><img src="images/Bronson_Hui.jpg" style="width:20%; border:2px solid"></p>
@@ -315,7 +324,7 @@ $(document).ready(function () {
 <p>Graudate student statistical consultant</p>
 <p><a href="https://cstat.msu.edu/">Center for Statisical Training and Consulting (CSTAT)</a></p>
 <p>Michigan State University</p>
-<a href="https://orcid.org/0000-0003-1822-3109"> <img src="images/orcid.png" width="40" height="40"> </a> <a href="https://osf.io/7gk8p/"> <img src="images/OSF.png" width="40" height="40"> </a> <a href="https://scholar.google.com/citations?user=irhLRn0AAAAJ&hl=en"> <img src="images/scholar.png" width="40" height="40"> </a>
+<a href="https://orcid.org/0000-0003-1822-3109"> <img src="images/orcid.png" width="40" height="40"> </a> <a href="https://osf.io/7gk8p/"> <img src="images/osf.png" width="40" height="40"> </a> <a href="https://scholar.google.com/citations?user=irhLRn0AAAAJ&hl=en"> <img src="images/scholar.png" width="40" height="40"> </a>
 </center>
 
 
@@ -327,7 +336,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
