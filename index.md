@@ -1,4 +1,6 @@
 
+
+
 <center>
 <link rel="stylesheet" href="styles.css" type="text/css">
 
@@ -24,7 +26,7 @@ Michigan State University
 <img src="images/orcid.png" width="40" height="40">
 </a>
 <a href="https://osf.io/7gk8p/">
-<img src="images/osf.png" width="40" height="40">
+<img src="images/OSF.png" width="40" height="40">
 </a>
 <a href="https://scholar.google.com/citations?user=irhLRn0AAAAJ&hl=en">
 <img src="images/scholar.png" width="40" height="40">
