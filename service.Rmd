@@ -15,10 +15,12 @@ title: "Service"
   * Abstract evaluation coordinator, Second Language Research Forum (SLRF), 2019 (2018 – 2019)
 
 ## Workshops
-  * Hui, B. (2020). Analyzing eye-tracking data. [a series of workshops]. Department of Language and Linguistics, University of Essex, September, 2020. 
-  * Hui, B. & Calvert, S. (2020). Data management and sharing in L2 research: why and how [a two-hour workshop]. Donuts and Distribution (Quant methods reading group), Second Language Studies, Michigan State University, February, 2020. 
-  * Hui, B. (2019). Multilevel (mixed-effects) modelling using R [a three-hour workshop]. Social Science Data Analytics, Michigan State University, November, 2019.
-  * Hui, B. (2018). Introduction to R [a one-hour workshop]. Donuts and Distribution (Quant methods reading group), Second Language Studies, Michigan State University, October, 2018.
-  * Hui, B. (2018). Introduction to R [a series of one-hour workshops]. Second Language Studies, Michigan State University, April–July, 2018. 
+  * Graduate students’ perspectives on open science practices. Center for Statistical Training and Consulting (CSTAT), Michigan State University, November, 2020.(with Huntley, E.)
+  *  Online data collection for psycholinguistics research: an introduction. Coffee and Cognition (psycholinguistics reading group), Second Language Studies, Michigan State University, October, 2020. (with Huntley, E.)
+  * Analyzing eye-tracking data. [a series of workshops]. Department of Language and Linguistics, University of Essex, September, 2020. 
+  * Data management and sharing in L2 research: why and how [a two-hour workshop]. Donuts and Distribution (Quant methods reading group), Second Language Studies, Michigan State University, February, 2020. (with Calvert, S.)
+  * Multilevel (mixed-effects) modelling using R [a three-hour workshop]. Social Science Data Analytics, Michigan State University, November, 2019.
+  * Introduction to R [a one-hour workshop]. Donuts and Distribution (Quant methods reading group), Second Language Studies, Michigan State University, October, 2018.
+  * Introduction to R [a series of one-hour workshops]. Second Language Studies, Michigan State University, April–July, 2018. 
 
 
