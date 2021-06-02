@@ -9,17 +9,11 @@
 
 Bronson Hui
 
-PhD candidate
+Bronson.Hui@uni-tuebingen.de
 
-huibrons[at]msu[dot]edu
+[Hector-Institut für Empirische Bildungsforschung](https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/hector-institut-fuer-empirische-bildungsforschung/institut/) 
 
-[Second Language Studies (SLS)](https://sls.msu.edu/) 
-
-Graudate student statistical consultant
-
-[Center for Statisical Training and Consulting (CSTAT)](https://cstat.msu.edu/) 
-
-Michigan State University
+Universität Tübingen
 
 <a href="https://orcid.org/0000-0003-1822-3109">
 <img src="images/orcid.png" width="40" height="40">

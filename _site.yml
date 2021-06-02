@@ -11,9 +11,6 @@ navbar:
       href: teaching.html
     - text: "Service"
       href: service.html
-    - text: "CV"
-      href: cv_hui_oct2020.pdf
-   
 
 output:
   html_document:
