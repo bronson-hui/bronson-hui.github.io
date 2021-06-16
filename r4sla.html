@@ -13,6 +13,7 @@
 
 <title>R for SLA</title>
 
+<script src="site_libs/header-attrs-2.8/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -294,12 +295,12 @@ div.tocify {
 
 <!-- setup 3col/9col grid for toc_float and main content  -->
 <div class="row">
-<div class="col-sm-12 col-md-4 col-lg-3">
+<div class="col-xs-12 col-sm-4 col-md-3">
 <div id="TOC" class="tocify">
 </div>
 </div>
 
-<div class="toc-content col-sm-12 col-md-8 col-lg-9">
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -345,14 +346,14 @@ div.tocify {
 </div>
 
 
-<div id="this-page-is-currently-under-construction" class="section level1">
-<h1><span class="header-section-number">1</span> This page is currently under construction</h1>
+<div id="this-page-is-currently-under-construction" class="section level1" number="1">
+<h1 number="1"><span class="header-section-number">1</span> This page is currently under construction</h1>
 </div>
-<div id="introduction" class="section level1">
-<h1><span class="header-section-number">2</span> Introduction</h1>
+<div id="introduction" class="section level1" number="2">
+<h1 number="2"><span class="header-section-number">2</span> Introduction</h1>
 <p>Given the power of R, I consider myself a competent beginner. I have learned a lot from my peers and the texts below. Here, I am sharing some resources and codes that I have been using. This is not meant to be a stats course, but merely technical support to a grad-level intro-to-stats class. I am a second language psycholinguist by training, so researchers in this field might find my examples more relevant. In R, as in all programming languages, there are always multiple ways to achieve the same goal. Please let me know if I have been doing something incorrectly or if I have chosen the difficult ways.</p>
-<div id="useful-resources" class="section level2">
-<h2><span class="header-section-number">2.1</span> Useful resources</h2>
+<div id="useful-resources" class="section level2" number="2.1">
+<h2 number="2.1"><span class="header-section-number">2.1</span> Useful resources</h2>
 <p><a href="http://rcompanion.org/handbook/" class="uri">http://rcompanion.org/handbook/</a></p>
 <p><a href="http://www.cookbook-r.com/" class="uri">http://www.cookbook-r.com/</a></p>
 <p><a href="http://www.r-bloggers.com/" class="uri">http://www.r-bloggers.com/</a></p>
@@ -362,28 +363,28 @@ div.tocify {
 <p>Google is always your friend. Whatever issues you are having are likely to have been encountered by someone else.</p>
 </div>
 </div>
-<div id="the-basics" class="section level1">
-<h1><span class="header-section-number">3</span> The Basics</h1>
-<div id="installation" class="section level2">
-<h2><span class="header-section-number">3.1</span> Installation</h2>
+<div id="the-basics" class="section level1" number="3">
+<h1 number="3"><span class="header-section-number">3</span> The Basics</h1>
+<div id="installation" class="section level2" number="3.1">
+<h2 number="3.1"><span class="header-section-number">3.1</span> Installation</h2>
 <p>You would want to first download R, install it before you install R Studio. R Studio lets you use scripts that you can recycle, making your life less difficult than it needs to be.</p>
 <p>R: <a href="http://www.r-project.org/" class="uri">http://www.r-project.org/</a></p>
 <p>RStudio: <a href="http://www.rstudio.com/" class="uri">http://www.rstudio.com/</a></p>
 </div>
-<div id="loading-saving-and-annotating-scripts" class="section level2">
-<h2><span class="header-section-number">3.2</span> Loading, saving, and annotating scripts</h2>
+<div id="loading-saving-and-annotating-scripts" class="section level2" number="3.2">
+<h2 number="3.2"><span class="header-section-number">3.2</span> Loading, saving, and annotating scripts</h2>
 <p>Just like opening any files, really. You either double click the script in the folder it is in, or you go to the <code>File</code> –&gt; <code>Open</code> in RStudio. When you do it the first way, your Working Directory (see below) will be automatically set as the folder the script is in. To save a script, there is a save button in your Source pane. Very often, you want to comment or annotate your code. To do that, put a hash sign <code>#</code> before your annotation. R will know that they are not actual codes. You will see this often in different tutorials or learning resources, like this:</p>
 <pre class="r"><code>d&lt;-read.csv(&quot;MyDataFile.csv&quot;) #this is how you read your CSV file to R and name it as an object called d</code></pre>
 </div>
-<div id="running-codes" class="section level2">
-<h2><span class="header-section-number">3.3</span> Running codes</h2>
+<div id="running-codes" class="section level2" number="3.3">
+<h2 number="3.3"><span class="header-section-number">3.3</span> Running codes</h2>
 <p>Not rocket science: Hold CTRL and hit ENTER for PCs or COMMAND and RETURN for Macs.</p>
 </div>
-<div id="identifying-and-setting-working-directory" class="section level2">
-<h2><span class="header-section-number">3.4</span> Identifying and setting working directory</h2>
+<div id="identifying-and-setting-working-directory" class="section level2" number="3.4">
+<h2 number="3.4"><span class="header-section-number">3.4</span> Identifying and setting working directory</h2>
 <p>This is probably your first line of code. The working directory is where R grabs the files you need (e.g., an excel file with your data) and save stuff to. To find out your current working directory, use this:</p>
 <pre class="r"><code>getwd()</code></pre>
-<pre><code>## [1] &quot;G:/My Drive/GitHub/bronson-hui.github.io&quot;</code></pre>
+<pre><code>## [1] &quot;C:/Users/Hui/Documents/GitHub/bronson-hui.github.io&quot;</code></pre>
 <p>To set it as the folder you save everything for your analyses in R, you can do this:</p>
 <pre class="r"><code>setwd(&quot;G:/My Drive/R_Analyses/&quot;) #note the quoataion marks and FORWARD slashes</code></pre>
 <p>You can also set a default so that you don’t always need to set it prior to analysis: Under the <code>Tools</code> tab –&gt; <code>Global Options</code> –&gt; <code>General</code> –&gt; <code>Default working directory</code>.</p>
