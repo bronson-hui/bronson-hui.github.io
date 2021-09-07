@@ -7,13 +7,13 @@
 
 
 
-Bronson Hui
+Bronson Hui, Ph.D.
 
-Bronson.Hui@uni-tuebingen.de
+bronson.hui@uni-tuebingen.de
 
 [Hector-Institut für Empirische Bildungsforschung](https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/hector-institut-fuer-empirische-bildungsforschung/institut/) 
 
-Universität Tübingen
+Eberhard Karls Universität Tübingen
 
 <a href="https://orcid.org/0000-0003-1822-3109">
 <img src="images/orcid.png" width="40" height="40">

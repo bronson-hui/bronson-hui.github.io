@@ -12,11 +12,11 @@ title: "Publications"
 
 Kim, K., Maie, R., Suga, K., Miller, Z., & **Hui, B.** ([in-principle acceptance](https://onlinelibrary.wiley.com/page/journal/14679922/homepage/registered_reports.htm)). SLA for ALL: A replication of Williams (2005) with academic and non-academic samples. *Language Learning*. <img src="images/preregistered.png" width="25" height="25">
 
+**Hui, B.** & Godfroid, A. (2021). Testing the role of processing speed and automaticity in second language listening. *Applied Psycholinguistics, 42*(5), 1089-1115. <https://doi.org/10.1017/S0142716420000193>. ([OSF project link](http://doi.org/10.17605/OSF.IO/35VFX) with materials and data)
+
 Loewen, S. & **Hui, B.** (2021). Small samples in instructed second language acquisition research. *Modern Language Journal, 105*(1), 187-193. <https://doi.org/10.1111/modl.12700>
 
 Godfroid, A. & **Hui, B.** (2020). Five pitfalls in eye-tracking research. *Second Language Research, 36*(3), 277-305. <https://doi.org/10.1177/0267658320921218>. 
-
-**Hui, B.** & Godfroid, A. (2020). Testing the role of processing speed and automaticity in second language listening. *Applied Psycholinguistics*. <https://doi.org/10.1017/S0142716420000193>. Advance online publication. ([OSF project link](http://doi.org/10.17605/OSF.IO/35VFX) with materials and data)
 
 **Hui, B.** (2020). Processing variability in intentional and incidental word learning: An extension of Solovyeva and DeKeyser (2018). *Studies in Second Language Acquisition, 42*(2), 327-357. <https://doi.org/10.1017/S0272263119000603> <img src="images/open-data.png" width="25" height="25"> <img src="images/open-materials.png" width="25" height="25"> ([OSF project link](http://doi.org/10.17605/OSF.IO/2TA7M) with materials, data, and preprint).
 
