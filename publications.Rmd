@@ -8,6 +8,8 @@ title: "Publications"
 
 **Hui, B.** & Huntley, E. (forthcoming). Promoting open science practices: What can (should) graduate programs do?. In L. Plonsky (Ed.) *Open science in applied linguistics*. John Benjamins. (pre-print: <https://doi.org/10.31219/osf.io/vmtza>)
 
+**Hui, B.**, Rudzewitz, B., & Meurers, D. (in press). Learning processes in interactive CALL systems: Linking automatic feedback, system logs, and learning outcomes. *Language Learning and Technology*.
+
 **Hui, B.** & Godfroid, A. ([in-principle acceptance](https://onlinelibrary.wiley.com/page/journal/14679922/homepage/registered_reports.htm)). Audiobooks decomposed: Toward a psycholinguistic account of the benefits of reading-while-listening for verbal comprehension. *Language Learning*. <img src="images/preregistered.png" width="25" height="25">
 
 Kim, K., Maie, R., Suga, K., Miller, Z., & **Hui, B.** ([in-principle acceptance](https://onlinelibrary.wiley.com/page/journal/14679922/homepage/registered_reports.htm)). SLA for ALL: A replication of Williams (2005) with academic and non-academic samples. *Language Learning*. <img src="images/preregistered.png" width="25" height="25">
