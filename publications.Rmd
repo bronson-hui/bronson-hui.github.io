@@ -2,33 +2,35 @@
 title: "Publications"
 ---
 
-<img src="images/preregistered.png" width="25" height="25">, <img src="images/open-data.png" width="25" height="25">, and <img src="images/open-materials.png" width="25" height="25"> denote the Open Science badges that I earned to support pre-registration, open data, and open materials in research, respectively (see the list of journals that offer Open Science Badges [here](https://www.cos.io/our-services/badges)).
+<img src="images/preregistered.png" width="25" height="25">, <img src="images/open-data.png" width="25" height="25">, <img src="images/open-materials.png" width="25" height="25">, and <img src="images/open-access.png" width="20" height="25"> denote the open science practices we followed for the project, including pre-registration, open data, open materials, and open access (see more about Open Science Badges [here](https://www.cos.io/our-services/badges)).
 
 ## Journal articles and book chapters
 
 **Hui, B.** & Huntley, E. (forthcoming). Promoting open science practices: What can (should) graduate programs do?. In L. Plonsky (Ed.) *Open science in applied linguistics*. John Benjamins. (pre-print: <https://doi.org/10.31219/osf.io/vmtza>)
 
-**Hui, B.**, Rudzewitz, B., & Meurers, D. (in press). Learning processes in interactive CALL systems: Linking automatic feedback, system logs, and learning outcomes. *Language Learning and Technology*.
+**Hui, B.**, Rudzewitz, B., & Meurers, D. (in press). Learning processes in interactive CALL systems: Linking automatic feedback, system logs, and learning outcomes. *Language Learning & Technology*. <img src="images/open-data.png" width="25" height="25"> <img src="images/open-access.png" width="20" height="25"> (pre-print: <https://doi.org/10.31219/osf.io/gzs9r>, [OSF project link](http://doi.org/10.17605/OSF.IO/39V4Z) with data and R code)
 
 **Hui, B.** & Godfroid, A. ([in-principle acceptance](https://onlinelibrary.wiley.com/page/journal/14679922/homepage/registered_reports.htm)). Audiobooks decomposed: Toward a psycholinguistic account of the benefits of reading-while-listening for verbal comprehension. *Language Learning*. <img src="images/preregistered.png" width="25" height="25">
 
 Kim, K., Maie, R., Suga, K., Miller, Z., & **Hui, B.** ([in-principle acceptance](https://onlinelibrary.wiley.com/page/journal/14679922/homepage/registered_reports.htm)). SLA for ALL: A replication of Williams (2005) with academic and non-academic samples. *Language Learning*. <img src="images/preregistered.png" width="25" height="25">
 
-**Hui, B.** & Godfroid, A. (2021). Testing the role of processing speed and automaticity in second language listening. *Applied Psycholinguistics, 42*(5), 1089-1115. <https://doi.org/10.1017/S0142716420000193>. ([OSF project link](http://doi.org/10.17605/OSF.IO/35VFX) with materials and data)
+**Hui, B.** & Godfroid, A. (2021). Testing the role of processing speed and automaticity in second language listening. *Applied Psycholinguistics, 42*(5), 1089-1115. <https://doi.org/10.1017/S0142716420000193>. <img src="images/open-data.png" width="25" height="25"> <img src="images/open-materials.png" width="25" height="25"> ([OSF project link](http://doi.org/10.17605/OSF.IO/35VFX) with materials, data, and R code)
 
 Loewen, S. & **Hui, B.** (2021). Small samples in instructed second language acquisition research. *Modern Language Journal, 105*(1), 187-193. <https://doi.org/10.1111/modl.12700>
 
 Godfroid, A. & **Hui, B.** (2020). Five pitfalls in eye-tracking research. *Second Language Research, 36*(3), 277-305. <https://doi.org/10.1177/0267658320921218>. 
 
-**Hui, B.** (2020). Processing variability in intentional and incidental word learning: An extension of Solovyeva and DeKeyser (2018). *Studies in Second Language Acquisition, 42*(2), 327-357. <https://doi.org/10.1017/S0272263119000603> <img src="images/open-data.png" width="25" height="25"> <img src="images/open-materials.png" width="25" height="25"> ([OSF project link](http://doi.org/10.17605/OSF.IO/2TA7M) with materials, data, and preprint).
+**Hui, B.** (2020). Processing variability in intentional and incidental word learning: An extension of Solovyeva and DeKeyser (2018). *Studies in Second Language Acquisition, 42*(2), 327-357. <https://doi.org/10.1017/S0272263119000603> <img src="images/open-data.png" width="25" height="25"> <img src="images/open-materials.png" width="25" height="25"> ([OSF project link](http://doi.org/10.17605/OSF.IO/2TA7M) with materials, data, R code, and preprint).
 
-Wang, X., **Hui, B.**, Chen, S. (2020). Language selective or non-selective in bilingual lexical access? It depends on lexical tones!. *PLoS ONE, 15*(3), e0230412. <https://doi.org/10.1371/journal.pone.0230412> (Data and materials available on [PLoS ONE](https://doi.org/10.1371/journal.pone.0230412.s001))
+Wang, X., **Hui, B.**, Chen, S. (2020). Language selective or non-selective in bilingual lexical access? It depends on lexical tones!. *PLoS ONE, 15*(3), e0230412. <https://doi.org/10.1371/journal.pone.0230412>  <img src="images/open-data.png" width="25" height="25"> <img src="images/open-materials.png" width="25" height="25"> <img src="images/open-access.png" width="20" height="25"> (Data and materials available on [PLoS ONE](https://doi.org/10.1371/journal.pone.0230412.s001))
 
 **Hui, B.** (2019). Analyzing processing time data in Applied Linguistics and second language research: a multivariate mixed effects approach. *Journal of Research Design and Statistics in Linguistics and Communication Science, 5*(1-2), 189-207. <https://doi.org/10.1558/jrds.39117>
 
 **Hui, B.** (2010). Backward transfer from L3 French to L2 English production of relative clauses by L1 Cantonese speakers in Hong Kong. *Hong Kong Journal of Applied Linguistics, 12*(2), 45–60. ([Full Text](http://caes.hku.hk/hkjalonline/issues/?guest_id=fa0f4c561c85193b7c0d4c2f2e20e579bddffa71727e481694bca5cd8ce557d2&file=2010_v12_2_hui.pdf))
 
 ## Data publications <img src="images/open-data.png" width="25" height="25">
+
+**Hui, B.**, Rudzewitz, B., & Meurers, D. (2022). Data and codebook for Language Learning & Technology article: Learning processes in interactive CALL systems: Linking automatic feedback, system logs, and learning outcomes [Data set]. Open Science Framework <http://doi.org/10.17605/OSF.IO/39V4Z>
 
 **Hui, B.** (2020). Data and codebook for Studies in Second Language Acquisition article: Processing variability in intentional and incidental word learning: An extension of Solovyeva and DeKeyser (2018) [Data set]. Open Science Framework. <http://doi.org/10.17605/OSF.IO/2TA7M>
 
@@ -38,15 +40,17 @@ Wang, X., **Hui, B.**, & Chen, S. (2020). Data for PLoS ONE article: Language se
 
 ## Selected research papers and presentations
 
-**Hui, B.** & Rudzewitz, B. (2019, September). Learning through automatic corrective feedback in a smart exercise book: interaction patterns and learning outcomes. Presentation at Secodn Language Research (SLRF), East Lansing, MI, USA.
+**Hui, B.** (2021, September). Explicit and implicit word knowledge meaures: A construct validation study. Paper presented at BAAL 2021 [virtual].
 
-**Hui, B.** (2019, March). The contribution of processing automaticity to second language listening. Presentation at AAAL 2019, Atlanta, GA, USA.
+**Hui, B.** & Rudzewitz, B. (2019, September). Learning through automatic corrective feedback in a smart exercise book: interaction patterns and learning outcomes. Paper presented at Second Language Research Forum (SLRF), East Lansing, MI, USA.
+
+**Hui, B.** (2019, March). The contribution of processing automaticity to second language listening. Paper presented at AAAL 2019, Atlanta, GA, USA.
 
 **Hui, B.** (2018, October). Processing variability in novel word learning. Paper presented at Second Language Research Forum (SLRF), Montreal, Canada.
 
-Godfroid, A., Kim, M. H., **Hui, B.**, & Isbell, D. (2018, September). Validating implicit and explicit L2 knowledge measures: A research synthesis. Paper presented at EuroSLA 28, Munster, Germany.
+Godfroid, A., Kim, M. H., **Hui, B.**, & Isbell, D. (2018, September). Validating implicit and explicit L2 knowledge measures: A research synthesis. Paper presented at EuroSLA 28, Münster, Germany.
 
-**Hui, B.** (2018, September). The contribution of processing automaticity to second language listening. Presentation at EuroSLA 28, Munster, Germany.
+**Hui, B.** (2018, September). The contribution of processing automaticity to second language listening. Presentation at EuroSLA 28, Münster, Germany.
 
 **Hui, B.**, & Fung, D. (2016). To know is not to use: The gap between students’ productive vocabulary knowledge and their actual use in free writing. Collection of Reports: Educational Research Award Scheme 14/15, (pp. 81-103). Hong Kong Teachers’ Centre: Hong Kong. ([Full Text](www.edb.org.hk/HKTC/download/eras/14-15/ERAS1415_R04.pdf))
 
