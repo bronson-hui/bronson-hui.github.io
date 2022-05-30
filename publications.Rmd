@@ -6,9 +6,7 @@ title: "Publications"
 
 ## Journal articles and book chapters
 
-Gao, J., Chen, W., & **Hui, B.** (under review) Peer feedback foci and their effect on student reviewers’ own revision.
-
-**Hui, B.**, Wong, S. S. Y., & Au, R. K. C. (under revision). Reading aloud listening test items to young learners: Attention, item understanding, and test performance.  
+**Hui, B.**, Wong, S. S. Y., & Au, R. K. C. (in press). Reading aloud listening test items to young learners: Attention, item understanding, and test performance.  *System*
 
 **Hui, B.** & Huntley, E. (in press). Promoting open science practices: What can (should) graduate programs do?. In L. Plonsky (Ed.) *Open science in applied linguistics*. John Benjamins. ([pre-print](https://doi.org/10.31219/osf.io/vmtza))
 
