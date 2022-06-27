@@ -6,8 +6,6 @@ title: "Publications"
 
 ## Journal articles and book chapters
 
-**Hui, B.**, Wong, S. S. Y., & Au, R. K. C. (in press). Reading aloud listening test items to young learners: Attention, item understanding, and test performance.  *System* <img src="images/open-data.png" width="25" height="25"> <img src="images/open-materials.png" width="25" height="25"> ([accepted version, materials, data, and R code](https://osf.io/cwndk/))
-
 **Hui, B.** & Huntley, E. (in press). Promoting open science practices: What can (should) graduate programs do?. In L. Plonsky (Ed.) *Open science in applied linguistics*. John Benjamins. ([pre-print](https://doi.org/10.31219/osf.io/vmtza))
 
 **Hui, B.**, Rudzewitz, B., & Meurers, D. (in press). Learning processes in interactive CALL systems: Linking automatic feedback, system logs, and learning outcomes. *Language Learning & Technology*. <img src="images/open-data.png" width="25" height="25"> <img src="images/open-access.png" width="20" height="25"> ([pre-print:](https://doi.org/10.31219/osf.io/gzs9r), [data and R code](http://doi.org/10.17605/OSF.IO/39V4Z))
@@ -15,6 +13,8 @@ title: "Publications"
 **Hui, B.** & Godfroid, A. ([in-principle acceptance](https://onlinelibrary.wiley.com/page/journal/14679922/homepage/registered_reports.htm)). Audiobooks decomposed: Toward a psycholinguistic account of the benefits of reading-while-listening for verbal comprehension. *Language Learning*. <img src="images/preregistered.png" width="25" height="25">
 
 Kim, K., Maie, R., Suga, K., Miller, Z., & **Hui, B.** ([in-principle acceptance](https://onlinelibrary.wiley.com/page/journal/14679922/homepage/registered_reports.htm)). SLA for ALL: A replication of Williams (2005) with academic and non-academic samples. *Language Learning*. <img src="images/preregistered.png" width="25" height="25">
+
+**Hui, B.**, Wong, S. S. Y., & Au, R. K. C. (2022). Reading aloud listening test items to young learners: Attention, item understanding, and test performance.  *System, 108*, 102831. <https://doi.org/10.1016/j.system.2022.102831> <img src="images/open-data.png" width="25" height="25"> <img src="images/open-materials.png" width="25" height="25"> ([accepted version, materials, data, and R code](https://osf.io/cwndk/))
 
 **Hui, B.** & Godfroid, A. (2021). Testing the role of processing speed and automaticity in second language listening. *Applied Psycholinguistics, 42*(5), 1089-1115. <https://doi.org/10.1017/S0142716420000193>. <img src="images/open-data.png" width="25" height="25"> <img src="images/open-materials.png" width="25" height="25"> ([materials, data, and R code](http://doi.org/10.17605/OSF.IO/35VFX))
 
