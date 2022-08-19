@@ -9,11 +9,13 @@
 
 Bronson Hui, Ph.D.
 
-bronson.hui@uni-tuebingen.de
+Assistant Professor of Second Language Acquisition
 
-[Hector-Institut für Empirische Bildungsforschung](https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/hector-institut-fuer-empirische-bildungsforschung/institut/) 
+[School of Languages, Literatures, and Cultures (SLLC)](https://sllc.umd.edu/) 
 
-Eberhard Karls Universität Tübingen
+[University of Maryland, College Park](https://umd.edu/)
+
+bhui@umd.edu
 
 <a href="https://orcid.org/0000-0003-1822-3109">
 <img src="images/orcid.png" width="40" height="40">
