@@ -13,7 +13,7 @@
 
 <title>Publications</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -141,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -318,6 +322,12 @@ class="uri">https://doi.org/10.1016/j.system.2022.102831</a>
 <img src="images/open-materials.png" width="25" height="25"> (<a
 href="https://osf.io/cwndk/">accepted version, materials, data, and R
 code</a>)</p>
+<p>Liu, M., Chong, S., Marsden, E., McManus, K., Morgan-Short, K.,
+Al-Hoorie, A., . . . <strong>Hui, B.</strong> (2022). Open scholarship
+in applied linguistics: What, why, and how. <em>Language Teaching</em>.
+<a href="https://doi.org/10.1017/S0261444822000349"
+class="uri">https://doi.org/10.1017/S0261444822000349</a> (Advance
+online publication)</p>
 <p><strong>Hui, B.</strong> &amp; Godfroid, A. (2021). Testing the role
 of processing speed and automaticity in second language listening.
 <em>Applied Psycholinguistics, 42</em>(5), 1089-1115. <a

@@ -16,6 +16,8 @@ Kim, K., Maie, R., Suga, K., Miller, Z., & **Hui, B.** ([in-principle acceptance
 
 **Hui, B.**, Wong, S. S. Y., & Au, R. K. C. (2022). Reading aloud listening test items to young learners: Attention, item understanding, and test performance.  *System, 108*, 102831. <https://doi.org/10.1016/j.system.2022.102831> <img src="images/open-data.png" width="25" height="25"> <img src="images/open-materials.png" width="25" height="25"> ([accepted version, materials, data, and R code](https://osf.io/cwndk/))
 
+Liu, M., Chong, S., Marsden, E., McManus, K., Morgan-Short, K., Al-Hoorie, A., . . . **Hui, B.** (2022). Open scholarship in applied linguistics: What, why, and how. *Language Teaching*. <https://doi.org/10.1017/S0261444822000349> (Advance online publication)
+
 **Hui, B.** & Godfroid, A. (2021). Testing the role of processing speed and automaticity in second language listening. *Applied Psycholinguistics, 42*(5), 1089-1115. <https://doi.org/10.1017/S0142716420000193>. <img src="images/open-data.png" width="25" height="25"> <img src="images/open-materials.png" width="25" height="25"> ([materials, data, and R code](http://doi.org/10.17605/OSF.IO/35VFX))
 
 Loewen, S. & **Hui, B.** (2021). Small samples in instructed second language acquisition research. *Modern Language Journal, 105*(1), 187-193. <https://doi.org/10.1111/modl.12700>
