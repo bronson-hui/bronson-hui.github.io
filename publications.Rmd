@@ -4,11 +4,13 @@ title: "Publications"
 
 <img src="images/preregistered.png" width="25" height="25">, <img src="images/open-data.png" width="25" height="25">, <img src="images/open-materials.png" width="25" height="25">, and <img src="images/open-access.png" width="20" height="25"> denote the open science practices we followed for the project, including pre-registration, open data, open materials, and open access (see more about Open Science Badges [here](https://www.cos.io/our-services/badges)).
 
-## Journal articles and book chapters
+## Journal articles
 
-**Hui, B.** & Huntley, E. (in press). Promoting open science practices: What can (should) graduate programs do?. In L. Plonsky (Ed.) *Open science in applied linguistics*. John Benjamins. ([pre-print](https://doi.org/10.31219/osf.io/vmtza))
+**Hui, B.**, Koh, J., & Ogawa, S. (in press). Voices of three junior scholars: A commentary on "Why are open research practices the future for the study of language learning?". *Language Learning*. ([pre-print](https://osf.io/cx5bw/))
 
 **Hui, B.**, Rudzewitz, B., & Meurers, D. (in press). Learning processes in interactive CALL systems: Linking automatic feedback, system logs, and learning outcomes. *Language Learning & Technology*. <img src="images/open-data.png" width="25" height="25"> <img src="images/open-access.png" width="20" height="25"> ([pre-print:](https://doi.org/10.31219/osf.io/gzs9r), [data and R code](http://doi.org/10.17605/OSF.IO/39V4Z))
+
+**Hui, B.** & Wu, Z. (in press). Estimating reliability for response time difference measures: Towards a standardized, model-based approach. *Studies in Second Language Acquisition.*
 
 **Hui, B.** & Godfroid, A. ([in-principle acceptance](https://onlinelibrary.wiley.com/page/journal/14679922/homepage/registered_reports.htm)). Audiobooks decomposed: Toward a psycholinguistic account of the benefits of reading-while-listening for verbal comprehension. *Language Learning*. <img src="images/preregistered.png" width="25" height="25">
 
@@ -31,6 +33,12 @@ Wang, X., **Hui, B.**, Chen, S. (2020). Language selective or non-selective in b
 **Hui, B.** (2019). Analyzing processing time data in Applied Linguistics and second language research: a multivariate mixed effects approach. *Journal of Research Design and Statistics in Linguistics and Communication Science, 5*(1-2), 189-207. <https://doi.org/10.1558/jrds.39117>
 
 **Hui, B.** (2010). Backward transfer from L3 French to L2 English production of relative clauses by L1 Cantonese speakers in Hong Kong. *Hong Kong Journal of Applied Linguistics, 12*(2), 45–60. ([Full Text](http://caes.hku.hk/hkjalonline/issues/?guest_id=fa0f4c561c85193b7c0d4c2f2e20e579bddffa71727e481694bca5cd8ce557d2&file=2010_v12_2_hui.pdf))
+
+## Book chapters
+
+**Hui, B.** & Huntley, E. (in press). Promoting open science practices: What can (should) graduate programs do?. In L. Plonsky (Ed.) *Open science in applied linguistics*. John Benjamins. ([pre-print](https://doi.org/10.31219/osf.io/vmtza))
+
+Wang, X., **Hui, B.**, & Wang, J. (in press). The role of lexical tones in bilingual language processing: Evidence from a typing task. In W. Han & C. Brebner (Eds) *Typical and atypical language development in cultural and linguistic diversity*. Routledge. 
 
 ## Data publications <img src="images/open-data.png" width="25" height="25">
 
