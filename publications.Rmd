@@ -5,20 +5,19 @@ title: "Publications"
 <img src="images/preregistered.png" width="25" height="25">, <img src="images/open-data.png" width="25" height="25">, <img src="images/open-materials.png" width="25" height="25">, and <img src="images/open-access.png" width="20" height="25"> denote the open science practices we followed for the project, including pre-registration, open data, open materials, and open access (see more about Open Science Badges [here](https://www.cos.io/our-services/badges)).
 
 ## Journal articles
-
-**Hui, B.**, Koh, J., & Ogawa, S. (in press). Voices of three junior scholars: A commentary on "Why are open research practices the future for the study of language learning?". *Language Learning*. ([pre-print](https://osf.io/cx5bw/))
-
 **Hui, B.**, Rudzewitz, B., & Meurers, D. (in press). Learning processes in interactive CALL systems: Linking automatic feedback, system logs, and learning outcomes. *Language Learning & Technology*. <img src="images/open-data.png" width="25" height="25"> <img src="images/open-access.png" width="20" height="25"> ([pre-print:](https://doi.org/10.31219/osf.io/gzs9r), [data and R code](http://doi.org/10.17605/OSF.IO/39V4Z))
-
-**Hui, B.** & Wu, Z. (in press). Estimating reliability for response time difference measures: Towards a standardized, model-based approach. *Studies in Second Language Acquisition.*
 
 **Hui, B.** & Godfroid, A. ([in-principle acceptance](https://onlinelibrary.wiley.com/page/journal/14679922/homepage/registered_reports.htm)). Audiobooks decomposed: Toward a psycholinguistic account of the benefits of reading-while-listening for verbal comprehension. *Language Learning*. <img src="images/preregistered.png" width="25" height="25">
 
 Kim, K., Maie, R., Suga, K., Miller, Z., & **Hui, B.** ([in-principle acceptance](https://onlinelibrary.wiley.com/page/journal/14679922/homepage/registered_reports.htm)). SLA for ALL: A replication of Williams (2005) with academic and non-academic samples. *Language Learning*. <img src="images/preregistered.png" width="25" height="25">
 
+**Hui, B.**, Koh, J., & Ogawa, S. (2023). Voices of three junior scholars: A commentary on "Why are open research practices the future for the study of language learning?". *Language Learning*. <https://doi.org/10.1111/lang.12571>. Advance online publication. ([pre-print](https://osf.io/cx5bw/)) <img src="images/open-access.png" width="20" height="25">
+
+**Hui, B.** & Wu, Z. (2023). Estimating reliability for response time difference measures: Towards a standardized, model-based approach. *Studies in Second Language Acquisition.* <https://doi.org/10.1017/S027226312300027X>. Advance online publication. <img src="images/open-access.png" width="20" height="25">
+
 **Hui, B.**, Wong, S. S. Y., & Au, R. K. C. (2022). Reading aloud listening test items to young learners: Attention, item understanding, and test performance.  *System, 108*, 102831. <https://doi.org/10.1016/j.system.2022.102831> <img src="images/open-data.png" width="25" height="25"> <img src="images/open-materials.png" width="25" height="25"> ([accepted version, materials, data, and R code](https://osf.io/cwndk/))
 
-Liu, M., Chong, S., Marsden, E., McManus, K., Morgan-Short, K., Al-Hoorie, A., . . . **Hui, B.** (2022). Open scholarship in applied linguistics: What, why, and how. *Language Teaching*. <https://doi.org/10.1017/S0261444822000349> (Advance online publication)
+Liu, M., Chong, S., Marsden, E., McManus, K., Morgan-Short, K., Al-Hoorie, A., . . . **Hui, B.** (2022). Open scholarship in applied linguistics: What, why, and how. *Language Teaching*. <https://doi.org/10.1017/S0261444822000349> Advance online publication.
 
 **Hui, B.** & Godfroid, A. (2021). Testing the role of processing speed and automaticity in second language listening. *Applied Psycholinguistics, 42*(5), 1089-1115. <https://doi.org/10.1017/S0142716420000193>. <img src="images/open-data.png" width="25" height="25"> <img src="images/open-materials.png" width="25" height="25"> ([materials, data, and R code](http://doi.org/10.17605/OSF.IO/35VFX))
 
