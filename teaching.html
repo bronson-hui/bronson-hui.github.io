@@ -13,7 +13,7 @@
 
 <title>Teaching</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -141,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -174,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -183,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -279,9 +276,15 @@ $(document).ready(function () {
 <ul>
 <li><p>University of Maryland, College Park</p>
 <ul>
+<li><em>SLAA 620 Second Language Research Methodologies</em> Fall,
+2023</li>
 <li><em>SLAA 640 Psycholinguistics</em> Fall, 2022</li>
-<li><em>SLAA 750 Instructted Second Language Acqusition</em> Fall,
-2022</li>
+<li><em>SLAA 649R Research Critique in Second Language Acquisition</em>
+Spring, 2023</li>
+<li><em>SLAA 750 Instructed Second Language Acquisition</em> Fall, 2022;
+Fall, 2023</li>
+<li><em>SLAA 759L Acquisition of Lexical Items in Instructional
+Contexts</em> Spring, 2023</li>
 </ul></li>
 <li><p>Michigan State University</p>
 <ul>
@@ -308,8 +311,8 @@ with Prof. Shawn Loewen) Fall, 2019</li>
 </ul></li>
 </ul>
 </div>
-<div id="secondary-school-high-school" class="section level2">
-<h2>Secondary school (High school)</h2>
+<div id="secondary-school-middle-high-school" class="section level2">
+<h2>Secondary school (Middle &amp; High school)</h2>
 <ul>
 <li><p>SKH St Simon’s Lui Ming Choi Secondary School</p>
 <ul>
@@ -319,6 +322,39 @@ with Prof. Shawn Loewen) Fall, 2019</li>
 <ul>
 <li>Secondary 1-6 (Grades/Years 7-12) EFL 2009-2012</li>
 </ul></li>
+</ul>
+</div>
+<div id="workshops-taught" class="section level2">
+<h2>Workshops Taught</h2>
+<ul>
+<li><a
+href="https://bronson-hui.github.io/payitforwardworkshops/index.html">Pay-It-Forward
+charity workshop in R</a>. Two-day online workshop, July-August, 2021.
+(with Ma, W.Y.M., Huntley, E., and Yoder, M.)</li>
+<li>An overview of reliability measures. Center for Statistical Training
+and Consulting (CSTAT), Michigan State University, March, 2021.(with Ma,
+W.Y.M.)</li>
+<li>Graduate students’ perspectives on open science practices. Center
+for Statistical Training and Consulting (CSTAT), Michigan State
+University, November, 2020.(with Huntley, E.)</li>
+<li>Online data collection for psycholinguistics research: an
+introduction. Coffee and Cognition (psycholinguistics reading group),
+Second Language Studies, Michigan State University, October, 2020. (with
+Huntley, E.)</li>
+<li>Analyzing eye-tracking data. [a series of workshops]. Department of
+Language and Linguistics, University of Essex, September, 2020.</li>
+<li>Data management and sharing in L2 research: why and how [a two-hour
+workshop]. Donuts and Distribution (Quant methods reading group), Second
+Language Studies, Michigan State University, February, 2020. (with
+Calvert, S.)</li>
+<li>Multilevel (mixed-effects) modelling using R [a three-hour
+workshop]. Social Science Data Analytics, Michigan State University,
+November, 2019.</li>
+<li>Introduction to R [a one-hour workshop]. Donuts and Distribution
+(Quant methods reading group), Second Language Studies, Michigan State
+University, October, 2018.</li>
+<li>Introduction to R [a series of one-hour workshops]. Second Language
+Studies, Michigan State University, April–July, 2018.</li>
 </ul>
 </div>
 

@@ -3,24 +3,16 @@ title: "Service"
 ---
 
 ## Ongoing Roles
-  * Ad-hoc reviewer for journals (e.g., *Language Learning*, *Studies in Second Language Acquisition*, *Bilingualism: Language and Cognition*, *TESOL Quarterly*, and *Reading in a Foreign Language*) and conferences (Second Language Research Forum [SLRF], 2019, 2020)
+  * Editorial board member, *TESOL Quarterly* (2023-2025)
+  * Ad-hoc reviewer for journals (e.g., *Language Learning*, *Studies in Second Language Acquisition*, *Bilingualism: Language and Cognition*, *TESOL Quarterly*, and *Research Methods in Applied Linguistics*) and conferences (Second Language Research Forum [SLRF], 2019, 2020; American Association for Applied Linguistics [AAAL], 2023, 2024)
   
-
 ## Past Roles
+  * Co-strand coordinator for the Language, Cognition and Brain Research strand for AAAL, 2023. 
   * Co-editor of the Michigan State University Working Papers in Second Language Studies (2018 – 2019);
   * Coordinator Donuts and Distribution (Quantitative Methods Reading Group, SLS, MSU) (2018 – 2019)
   * Lab manager of the SLA lab at MSU (2017 – 2018)
   * Abstract evaluation coordinator, Second Language Research Forum (SLRF), 2019 (2018 – 2019)
 
-## Workshops Taught
-  * [Pay-It-Forward charity workshop in R](https://bronson-hui.github.io/payitforwardworkshops/index.html). Two-day online workshop, July-August, 2021. (with Ma, W.Y.M., Huntley, E., and Yoder, M.)
-  * An overview of reliability measures. Center for Statistical Training and Consulting (CSTAT), Michigan State University, March, 2021.(with Ma, W.Y.M.)
-  * Graduate students’ perspectives on open science practices. Center for Statistical Training and Consulting (CSTAT), Michigan State University, November, 2020.(with Huntley, E.)
-  *  Online data collection for psycholinguistics research: an introduction. Coffee and Cognition (psycholinguistics reading group), Second Language Studies, Michigan State University, October, 2020. (with Huntley, E.)
-  * Analyzing eye-tracking data. [a series of workshops]. Department of Language and Linguistics, University of Essex, September, 2020. 
-  * Data management and sharing in L2 research: why and how [a two-hour workshop]. Donuts and Distribution (Quant methods reading group), Second Language Studies, Michigan State University, February, 2020. (with Calvert, S.)
-  * Multilevel (mixed-effects) modelling using R [a three-hour workshop]. Social Science Data Analytics, Michigan State University, November, 2019.
-  * Introduction to R [a one-hour workshop]. Donuts and Distribution (Quant methods reading group), Second Language Studies, Michigan State University, October, 2018.
-  * Introduction to R [a series of one-hour workshops]. Second Language Studies, Michigan State University, April–July, 2018. 
+
 
 
