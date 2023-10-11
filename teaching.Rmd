@@ -2,8 +2,25 @@
 title: "Teaching"
 ---
 
-
-## Graduate-level
+## Student advising (ordered alphbetically by last name)
+* University of Maryland, College Park
+  + Full, empirical qualifying papers 
+      + Simmons, Stefaine
+      + Tytko, Tetiana
+    
+  + Proposal qualifying papers
+      + Jia, Ruirui
+      + Ogawa, Sanshiro
+      + Park, Sohye
+      + Tytko, Tetiana
+    
+  + Dissertations 
+    + Deng, Zhiyuan
+    + Iizuka, Takehiro
+    + Malone, Jon
+    + Pulupa, Catherine
+    
+## Graduate-level courses
 
 * University of Maryland, College Park
 
@@ -17,13 +34,13 @@ title: "Teaching"
 
   +  *LLT 873 Quantitative Research Methods in SLS* (co-teaching with Prof. Shawn Loewen) Fall, 2019
 
-## Undergraduate-level
+## Undergraduate-level courses
 
 * Michigan State University
 
   +  *LLT 346 Pedagogical Grammar* Spring, 2020
 
-## Sub-degree level
+## Sub-degree level course
 
 * Caritas Institute of Higher Education (Hong Kong)
 
