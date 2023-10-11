@@ -20,7 +20,7 @@ Kim, K., Maie, R., Suga, K., Miller, Z., & **Hui, B.** (in press). SLA for ALL: 
 
 **Hui, B.** & ^Wu, Z. (2023). Estimating reliability for response time difference measures: Towards a standardized, model-based approach. *Studies in Second Language Acquisition.* <https://doi.org/10.1017/S027226312300027X>. Advance online publication. <img src="images/open-access.png" width="20" height="25">
 
-Liu, M., Chong, S., Marsden, E., McManus, K., Morgan-Short, K., Al-Hoorie, A., . . . **Hui, B.** (2022). Open scholarship in applied linguistics: What, why, and how. *Language Teaching, 56*(3), 432-437. <https://doi.org/10.1017/S0261444822000349> 
+Liu, M., Chong, S., Marsden, E., McManus, K., Morgan-Short, K., Al-Hoorie, A., . . . **Hui, B.** (2023). Open scholarship in applied linguistics: What, why, and how. *Language Teaching, 56*(3), 432-437. <https://doi.org/10.1017/S0261444822000349> 
 
 **Hui, B.**, Wong, S. S. Y., & Au, R. K. C. (2022). Reading aloud listening test items to young learners: Attention, item understanding, and test performance.  *System, 108*, 102831. <https://doi.org/10.1016/j.system.2022.102831> <img src="images/open-data.png" width="25" height="25"> <img src="images/open-materials.png" width="25" height="25"> ([accepted version, materials, data, and R code](https://osf.io/cwndk/))
 
