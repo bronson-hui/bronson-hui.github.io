@@ -40,7 +40,7 @@ Wang, X., **Hui, B.**, Chen, S. (2020). Language selective or non-selective in b
 
 **Hui, B.** & Huntley, E. (in press). Promoting open science practices: What can (should) graduate programs do?. In L. Plonsky (Ed.) *Open science in applied linguistics*. John Benjamins. ([pre-print](https://doi.org/10.31219/osf.io/vmtza))
 
-Wang, X., **Hui, B.**, & Wang, J. (in press). The role of lexical tones in bilingual language processing: Evidence from a typing task. In W. Han & C. Brebner (Eds) *Typical and atypical language development in cultural and linguistic diversity*. Routledge. 
+Wang, X., **Hui, B.**, Chen, L., & Wang, J. (2023). The role of lexical tones in bilingual language processing: Evidence from a typing task. In W. Han & C. Brebner (Eds) *Typical and atypical language development in cultural and linguistic diversity* (pp. 23-39). Routledge. <https://doi.org/10.4324/9781003251194-3>
 
 ## Data publications <img src="images/open-data.png" width="25" height="25">
 
