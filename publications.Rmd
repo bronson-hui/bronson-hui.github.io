@@ -28,7 +28,7 @@ Liu, M., Chong, S., Marsden, E., McManus, K., Morgan-Short, K., Al-Hoorie, A., .
 
 **Hui, B.** & Godfroid, A. (2021). Testing the role of processing speed and automaticity in second language listening. *Applied Psycholinguistics, 42*(5), 1089-1115. <https://doi.org/10.1017/S0142716420000193>. <img src="images/open-data.png" width="25" height="25"> <img src="images/open-materials.png" width="25" height="25"> ([materials, data, and R code](http://doi.org/10.17605/OSF.IO/35VFX))
 
-Loewen, S. & **Hui, B.** (2021). Small samples in instructed second language acquisition research. *Modern Language Journal, 105*(1), 187-193. <https://doi.org/10.1111/modl.12700>
+Loewen, S. & **Hui, B.** (2021). Small samples in instructed second language acquisition research. *The Modern Language Journal, 105*(1), 187-193. <https://doi.org/10.1111/modl.12700>
 
 Godfroid, A. & **Hui, B.** (2020). Five pitfalls in eye-tracking research. *Second Language Research, 36*(3), 277-305. <https://doi.org/10.1177/0267658320921218>. 
 

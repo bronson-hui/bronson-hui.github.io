@@ -3,8 +3,29 @@ title: "Service"
 ---
 
 ## Ongoing Roles
-  * Editorial board member, *TESOL Quarterly* (2023-2025)
-  * Ad-hoc reviewer for journals (e.g., *Language Learning*, *Studies in Second Language Acquisition*, *Bilingualism: Language and Cognition*, *TESOL Quarterly*, and *Research Methods in Applied Linguistics*) and conferences (Second Language Research Forum [SLRF], 2019, 2020; American Association for Applied Linguistics [AAAL], 2023, 2024)
+  * Conference Chair, Vocab[at]UMD 2025
+  
+  * Editorial board member
+    * *TESOL Quarterly* (2023-2025)
+    * *Studies in Second Language Acquisition* (2024-2026)
+    
+  * Ad-hoc reviewer for journals 
+    * *Language Learning*
+    * *Studies in Second Language Acquisition* 
+    * *Bilingualism: Language and Cognition* 
+    * *TESOL Quarterly*
+    * *Research Methods in Applied Linguistics* 
+    * *Applied Psycholinguistics*
+    * *The Modern Language Journal*
+    * *System*
+    
+  * Ad-hoc reviewer for conferences
+      * Second Language Research Forum (SLRF), 2019, 2020 
+      * American Association for Applied Linguistics (AAAL), 2023, 2024
+  
+  * Ad-hoc reviewer for grants 
+      * National Science Foundation (NSF)
+      * National Science Centre (Poland)
   
 ## Past Roles
   * Co-strand coordinator for the Language, Cognition and Brain Research strand for AAAL, 2023. 
