@@ -20,11 +20,11 @@ title: "Publications"
 
 <!-- -->
 
-15. **Hui, B.** (2024). Scaffolding comprehension with reading-while-listening and the role of reading speed and text complexity. *The Modern Language Journal*. Advance online publication <https://doi.org/10.111/modl.12905> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/dt6ah/))
+15. **Hui, B.** (2024). Scaffolding comprehension with reading-while-listening and the role of reading speed and text complexity. *The Modern Language Journal*. Advance online publication <https://doi.org/10.1111/modl.12905> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/dt6ah/))
 
 <!-- -->
 
-14. **Hui, B.**, Koh, J., & \^Ogawa, S. (2023). Voices of three junior scholars: A commentary on "Why are open research practices the future for the study of language learning?". *Language Learning*, *72*(S2), 414-417. <https://doi.org/10.111/lang.12571> <img src="images/open-access.png" width="20" height="25"/>
+14. **Hui, B.**, Koh, J., & \^ Ogawa, S. (2023). Voices of three junior scholars: A commentary on "Why are open research practices the future for the study of language learning?". *Language Learning*, *72*(S2), 414-417. <https://doi.org/10.1111/lang.12571> <img src="images/open-access.png" width="20" height="25"/>
 
 <!-- -->
 
@@ -36,7 +36,7 @@ title: "Publications"
 
 <!-- -->
 
-11. **Hui, B.** & \^Wu, Z. (2023). Estimating reliability for response time difference measures: Towards a standardized, model-based approach. *Studies in Second Language Acquisition.* Advance online publication. <https://doi.org/10.1017/S027226312300027X>. <img src="images/open-access.png" width="20" height="25"/>
+11. **Hui, B.** & \^ Wu, Z. (2023). Estimating reliability for response time difference measures: Towards a standardized, model-based approach. *Studies in Second Language Acquisition.* Advance online publication. <https://doi.org/10.1017/S027226312300027X>. <img src="images/open-access.png" width="20" height="25"/>
 
 <!-- -->
 
