@@ -8,15 +8,19 @@ title: "Publications"
 
 ## Journal articles
 
-18. **Hui, B.** & Godfroid, A. ([in-principle acceptance](https://onlinelibrary.wiley.com/page/journal/14679922/homepage/registered_reports.htm)). Audiobooks decomposed: Toward a psycholinguistic account of the benefits of reading-while-listening for verbal comprehension. *Language Learning*. <img src="images/preregistered.png" width="25" height="25"/>
+19. **Hui, B.** & Godfroid, A. ([in-principle acceptance](https://onlinelibrary.wiley.com/page/journal/14679922/homepage/registered_reports.htm)). Audiobooks decomposed: Toward a psycholinguistic account of the benefits of reading-while-listening for verbal comprehension. *Language Learning*. <img src="images/preregistered.png" width="25" height="25"/>
 
 <!-- -->
 
-17. Abdi Tabari, M. & **Hui, B.** (in press). Exploring the associations among task complexity, task motivation, take engagement, and linguistic complexity in L2 writing. *The Modern Language Journal* <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/>
+18. Abdi Tabari, M. & **Hui, B.** (in press). Exploring the associations among task complexity, task motivation, take engagement, and linguistic complexity in L2 writing. *The Modern Language Journal* <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/>
 
 <!-- -->
 
-16. **Hui, B.** & \^ Jia, R. (in press) Reflecting on the use of response times to index linguistic knowledge in SLA. *Annual Review of Applied Linguistics*. <img src="images/open-access.png" width="20" height="25"/>
+17. **Hui, B.** & \^ Jia, R. (in press). Reflecting on the use of response times to index linguistic knowledge in SLA. *Annual Review of Applied Linguistics*. <img src="images/open-access.png" width="20" height="25"/>
+
+<!-- -->
+
+16. ^ Quan, Y., ^ Tytko, T., & **Hui, B.** (in press). Utilizing ASReview in screening primary studise for meta-research in SLA: A step-by-step tutorial. *Research Methods in Applied Linguistics*. <img src="images/open-access.png" width="20" height="25"/>
 
 <!-- -->
 
@@ -32,7 +36,9 @@ title: "Publications"
 
 <!-- -->
 
-12. **Hui, B.**, Rudzewitz, B., & Meurers, D. (2023). Learning processes in interactive CALL systems: Linking automatic feedback, system logs, and learning outcomes. *Language Learning & Technology, 27*(1), 1–23. <https://hdl.handle.net/10125/73527>. <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([data and R code](http://doi.org/10.17605/OSF.IO/39V4Z))
+12. @ **Hui, B.**, Rudzewitz, B., & Meurers, D. (2023). Learning processes in interactive CALL systems: Linking automatic feedback, system logs, and learning outcomes. *Language Learning & Technology, 27*(1), 1–23. <https://hdl.handle.net/10125/73527>. <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([data and R code](http://doi.org/10.17605/OSF.IO/39V4Z))
+
+    @ The first two authors contributed equally to this work. 
 
 <!-- -->
 
