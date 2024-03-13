@@ -20,11 +20,11 @@ title: "Publications"
 
 <!-- -->
 
-16. ^ Quan, Y., ^ Tytko, T., & **Hui, B.** (in press). Utilizing ASReview in screening primary studise for meta-research in SLA: A step-by-step tutorial. *Research Methods in Applied Linguistics*. <img src="images/open-access.png" width="20" height="25"/>
+16. **Hui, B.** (2024). Scaffolding comprehension with reading-while-listening and the role of reading speed and text complexity. *The Modern Language Journal. 108*(1), 183-200 <https://doi.org/10.1111/modl.12905> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/dt6ah/))
 
 <!-- -->
 
-15. **Hui, B.** (2024). Scaffolding comprehension with reading-while-listening and the role of reading speed and text complexity. *The Modern Language Journal*. Advance online publication <https://doi.org/10.1111/modl.12905> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/dt6ah/))
+15. ^ Quan, Y., ^ Tytko, T., & **Hui, B.** (2024). Utilizing ASReview in screening primary studise for meta-research in SLA: A step-by-step tutorial. *Research Methods in Applied Linguistics, 3*(1), 100101. <https://doi.org/10.1016/j.rmal.2024.100101> <img src="images/open-access.png" width="20" height="25"/>
 
 <!-- -->
 
@@ -158,7 +158,7 @@ title: "Publications"
 
 <!-- -->
 
-3.  **Hui, B.**, & Fung, D. (2016). To know is not to use: The gap between students’ productive vocabulary knowledge and their actual use in free writing. Collection of Reports: Educational Research Award Scheme 14/15, (pp. 81-103). Hong Kong Teachers’ Centre: Hong Kong. ([Full Text](www.edb.org.hk/HKTC/download/eras/14-15/ERAS1415_R04.pdf))
+3.  **Hui, B.**, & Fung, D. (2016). To know is not to use: The gap between students’ productive vocabulary knowledge and their actual use in free writing. Collection of Reports: Educational Research Award Scheme 14/15, (pp. 81-103). Hong Kong Teachers’ Centre: Hong Kong. ([Full Text](https://eservices-help.edb.gov.hk/irooms/eservices/T-surf/Content/Documents/Educational%20Research%20Award%20Scheme%20Reports%20Collections%2014_15.pdf))
 
 <!-- -->
 
