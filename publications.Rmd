@@ -8,11 +8,17 @@ title: "Publications"
 
 ## Journal articles
 
-19. **Hui, B.** & Godfroid, A. ([in-principle acceptance](https://onlinelibrary.wiley.com/page/journal/14679922/homepage/registered_reports.htm)). Audiobooks decomposed: Toward a psycholinguistic account of the benefits of reading-while-listening for verbal comprehension. *Language Learning*. <img src="images/preregistered.png" width="25" height="25"/>
+20. **Hui, B.** & Godfroid, A. ([in-principle acceptance](https://onlinelibrary.wiley.com/page/journal/14679922/homepage/registered_reports.htm)). Audiobooks decomposed: Toward a psycholinguistic account of the benefits of reading-while-listening for verbal comprehension. *Language Learning*. <img src="images/preregistered.png" width="25" height="25"/>
 
 <!-- -->
 
-18. Abdi Tabari, M. & **Hui, B.** (in press). Exploring the associations among task complexity, task motivation, take engagement, and linguistic complexity in L2 writing. *The Modern Language Journal* <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/>
+19. Abdi Tabari, M. & **Hui, B.** (in press). Exploring the associations among task complexity, task motivation, take engagement, and linguistic complexity in L2 writing. *The Modern Language Journal* <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/>
+
+<!-- -->
+
+18. \@ The TwiLex Group (in press). First language effects on incidental vocabulary learning through bimodal input: A multisite, preregistered, and close replication of Malone (2018). *Studies in Second Language Acquisition* <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/preregistered.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/>\
+    \
+    \@ This is a team publication. Here is our CRediT author statement (ordered by author’s last name alphabetically): Chen, Yingzhao: Conceptualization, Methodology, Software, Writing - Original Draft, Writing - Review & Editing, Project Administration; Gao, Jianwu: Investigation, Writing - Original Draft, Writing - Review & Editing, Funding Acquisition; Hirzinger-Unterrainer, Eva: Investigation; **Hui, Bronson**: Conceptualization, Methodology, Data Curation, Writing - Original Draft, Writing - Review & Editing, Project Administration, Funding Acquisition; Kremmel, Benjamin: Investigation, Writing - Review & Editing, Funding Acquisition; Li, Peilin: Investigation; Ma, Shuang: Investigation, Writing - Review & Editing; Maie, Ryo: Methodology, Formal Analysis, Writing - Original Draft, Writing - Review & Editing, Visualization; Puimège, Eva: Investigation, Writing - Review & Editing; Rogers, John: Investigation, Writing - Original Draft, Writing - Review & Editing, Funding Acquisition; Wilson, Micheline: Writing - Original Draft, Writing - Review & Editing, Project Administration
 
 <!-- -->
 
@@ -24,25 +30,25 @@ title: "Publications"
 
 <!-- -->
 
-15. ^ Quan, Y., ^ Tytko, T., & **Hui, B.** (2024). Utilizing ASReview in screening primary studise for meta-research in SLA: A step-by-step tutorial. *Research Methods in Applied Linguistics, 3*(1), 100101. <https://doi.org/10.1016/j.rmal.2024.100101> <img src="images/open-access.png" width="20" height="25"/>
+15. **Hui, B.** & \^ Wu, Z. (2024). Estimating reliability for response time difference measures: Towards a standardized, model-based approach. *Studies in Second Language Acquisition, 45*(1), 227-250. <https://doi.org/10.1017/S027226312300027X>. <img src="images/open-access.png" width="20" height="25"/>
 
 <!-- -->
 
-14. **Hui, B.**, Koh, J., & \^ Ogawa, S. (2023). Voices of three junior scholars: A commentary on "Why are open research practices the future for the study of language learning?". *Language Learning*, *72*(S2), 414-417. <https://doi.org/10.1111/lang.12571> <img src="images/open-access.png" width="20" height="25"/>
+14. \^ Quan, Y., \^ Tytko, T., & **Hui, B.** (2024). Utilizing ASReview in screening primary studise for meta-research in SLA: A step-by-step tutorial. *Research Methods in Applied Linguistics, 3*(1), 100101. <https://doi.org/10.1016/j.rmal.2024.100101> <img src="images/open-access.png" width="20" height="25"/>
 
 <!-- -->
 
-13. **Hui, B.**, Ma, W. M., & Hübner, N. (2023). Alternatives to traditional outcome modelling approaches in applied linguistics: A primer on propensity score matching. *Research Methods in Applied Linguistics, 2*(3), 100066. <https://doi.org/10.1016/j.rmal.2023.100066> <img src="images/open-access.png" width="20" height="25"/>
+13. **Hui, B.**, Koh, J., & \^ Ogawa, S. (2023). Voices of three junior scholars: A commentary on "Why are open research practices the future for the study of language learning?". *Language Learning*, *72*(S2), 414-417. <https://doi.org/10.1111/lang.12571> <img src="images/open-access.png" width="20" height="25"/>
 
 <!-- -->
 
-12. @ **Hui, B.**, Rudzewitz, B., & Meurers, D. (2023). Learning processes in interactive CALL systems: Linking automatic feedback, system logs, and learning outcomes. *Language Learning & Technology, 27*(1), 1–23. <https://hdl.handle.net/10125/73527>. <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([data and R code](http://doi.org/10.17605/OSF.IO/39V4Z))
-
-    @ The first two authors contributed equally to this work. 
+12. **Hui, B.**, Ma, W. M., & Hübner, N. (2023). Alternatives to traditional outcome modelling approaches in applied linguistics: A primer on propensity score matching. *Research Methods in Applied Linguistics, 2*(3), 100066. <https://doi.org/10.1016/j.rmal.2023.100066> <img src="images/open-access.png" width="20" height="25"/>
 
 <!-- -->
 
-11. **Hui, B.** & \^ Wu, Z. (2023). Estimating reliability for response time difference measures: Towards a standardized, model-based approach. *Studies in Second Language Acquisition.* Advance online publication. <https://doi.org/10.1017/S027226312300027X>. <img src="images/open-access.png" width="20" height="25"/>
+11. \@ **Hui, B.**, Rudzewitz, B., & Meurers, D. (2023). Learning processes in interactive CALL systems: Linking automatic feedback, system logs, and learning outcomes. *Language Learning & Technology, 27*(1), 1–23. <https://hdl.handle.net/10125/73527>. <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([data and R code](http://doi.org/10.17605/OSF.IO/39V4Z))
+
+    \@ The first two authors contributed equally to this work.
 
 <!-- -->
 
