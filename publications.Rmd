@@ -22,11 +22,11 @@ title: "Publications"
 
 <!-- -->
 
-17. **Hui, B.** & \^ Jia, R. (in press). Reflecting on the use of response times to index linguistic knowledge in SLA. *Annual Review of Applied Linguistics*. <img src="images/open-access.png" width="20" height="25"/>
+17. **Hui, B.** (2024). Scaffolding comprehension with reading-while-listening and the role of reading speed and text complexity. *The Modern Language Journal. 108*(1), 183-200 <https://doi.org/10.1111/modl.12905> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/dt6ah/))
 
 <!-- -->
 
-16. **Hui, B.** (2024). Scaffolding comprehension with reading-while-listening and the role of reading speed and text complexity. *The Modern Language Journal. 108*(1), 183-200 <https://doi.org/10.1111/modl.12905> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/dt6ah/))
+16. **Hui, B.** & \^ Jia, R. (2024). Reflecting on the use of response times to index linguistic knowledge in SLA. *Annual Review of Applied Linguistics*. Advance online publication. <https://doi.org/10.1017/S0267190524000047> <img src="images/open-access.png" width="20" height="25"/>
 
 <!-- -->
 
