@@ -8,11 +8,7 @@ title: "Publications"
 
 ## Journal articles
 
-20. **Hui, B.** & Godfroid, A. ([in-principle acceptance](https://onlinelibrary.wiley.com/page/journal/14679922/homepage/registered_reports.htm)). Audiobooks decomposed: Toward a psycholinguistic account of the benefits of reading-while-listening for verbal comprehension. *Language Learning*. <img src="images/preregistered.png" width="25" height="25"/>
-
-<!-- -->
-
-19. Abdi Tabari, M. & **Hui, B.** (2024). Exploring the associations among task complexity, task motivation, take engagement, and linguistic complexity in L2 writing. *The Modern Language Journal, 108*(2), 446-468. <https://doi.org/10.1111/modl.12921> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/4kbam/))
+**Hui, B.** & Godfroid, A. ([in-principle acceptance](https://onlinelibrary.wiley.com/page/journal/14679922/homepage/registered_reports.htm)). Audiobooks decomposed: Toward a psycholinguistic account of the benefits of reading-while-listening for verbal comprehension. *Language Learning*. <img src="images/preregistered.png" width="25" height="25"/>
 
 <!-- -->
 
