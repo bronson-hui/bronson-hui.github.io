@@ -88,11 +88,15 @@ title: "Publications"
 
 ## Book chapters
 
-3.  **Hui, B.** & Huntley, E. (in press). Promoting open science practices: What can (should) graduate programs do?. In L. Plonsky (Ed.) *Open science in applied linguistics*. John Benjamins. ([pre-print](https://doi.org/10.31219/osf.io/vmtza))
+4. Chung, E., Wan, A., & **Hui, B.** (in press). Replication studies in language teaching. In *International encyclopedia of language and linguistics* (3rd Ed). Elsevier. 
 
 <!-- -->
 
-2.  \^ Quan, Y. & **Hui, B.** (in press). Study screening for meta-research: An overview of AI tools. In K. Sadeghi (Ed) *Routledge handbook of technological advances in researching language learning.* Routledge. ([pre-print](https://doi.org/10.31219/osf.io/bd6fj))
+3.  \^ Quan, Y. & **Hui, B.** (in press). Study screening for meta-research: An overview of AI tools. In K. Sadeghi (Ed) *Routledge handbook of technological advances in researching language learning.* Routledge. ([pre-print](https://doi.org/10.31219/osf.io/bd6fj))
+
+<!-- -->
+
+2.  **Hui, B.** & Huntley, E. (2024). Promoting open science practices: What can (should) graduate programs do?. In L. Plonsky (Ed.) *Open science in applied linguistics* (pp.179-192). Applied Linguistics Press. https://www.appliedlinguisticspress.org/home/catalog/plonsky_2024 ([pre-print](https://doi.org/10.31219/osf.io/vmtza))
 
 <!-- -->
 
