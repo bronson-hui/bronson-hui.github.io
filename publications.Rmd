@@ -11,7 +11,9 @@ title: "Publications"
 **Hui, B.** & Godfroid, A. ([in-principle acceptance](https://onlinelibrary.wiley.com/page/journal/14679922/homepage/registered_reports.htm)). Audiobooks decomposed: Toward a psycholinguistic account of the benefits of reading-while-listening for verbal comprehension. *Language Learning*. <img src="images/preregistered.png" width="25" height="25"/>
 
 <!-- -->
+19. **Hui, B. **, Godfroid, A., & Elgort, I. (in press). A construct validation study of time-sensitive word knowledge measures. *Applied Linguistics*. <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> ([Materials, data, and R code](https://osf.io/uyfh5/), [pre-print](https://doi.org/10.31219/osf.io/dwjmn))
 
+<!-- -->
 18. **Hui, B.** (2024). Scaffolding comprehension with reading-while-listening and the role of reading speed and text complexity. *The Modern Language Journal, 108*(1), 183-200 <https://doi.org/10.1111/modl.12905> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/dt6ah/))
 
 <!-- -->
@@ -88,15 +90,14 @@ title: "Publications"
 
 ## Book chapters
 
-4. Chung, E., Wan, A., & **Hui, B.** (in press). Replication studies in language teaching. In *International encyclopedia of language and linguistics* (3rd Ed). Elsevier. 
+4. Chung, E., Wan, A., & **Hui, B.** (2024). Replication studies in language teaching. In *International encyclopedia of language and linguistics* (3rd Ed). Elsevier. <https://doi.org/10.1016/B978-0-323-95504-1.00205-2>
+
+<!-- -->
+3.  **Hui, B.** & Huntley, E. (2024). Promoting open science practices: What can (should) graduate programs do?. In L. Plonsky (Ed.) *Open science in applied linguistics* (pp.179-192). Applied Linguistics Press. https://www.appliedlinguisticspress.org/home/catalog/plonsky_2024 ([pre-print](https://doi.org/10.31219/osf.io/vmtza))
 
 <!-- -->
 
-3.  \^ Quan, Y. & **Hui, B.** (in press). Study screening for meta-research: An overview of AI tools. In K. Sadeghi (Ed) *Routledge handbook of technological advances in researching language learning.* Routledge. ([pre-print](https://doi.org/10.31219/osf.io/bd6fj))
-
-<!-- -->
-
-2.  **Hui, B.** & Huntley, E. (2024). Promoting open science practices: What can (should) graduate programs do?. In L. Plonsky (Ed.) *Open science in applied linguistics* (pp.179-192). Applied Linguistics Press. https://www.appliedlinguisticspress.org/home/catalog/plonsky_2024 ([pre-print](https://doi.org/10.31219/osf.io/vmtza))
+2. \^ Quan, Y. & **Hui, B.** (2024). Study screening for meta-research: An overview of AI tools. In K. Sadeghi (Ed) *Routledge handbook of technological advances in researching language learning.* Routledge. ([pre-print](https://doi.org/10.31219/osf.io/bd6fj))
 
 <!-- -->
 
