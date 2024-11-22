@@ -5,24 +5,25 @@ title: "Teaching"
 ## Student advising as (co-)chair 
 * University of Maryland, College Park
   + Full, empirical qualifying papers 
+      + Woodward, Jill
       + Simmons, Stefaine
-      + Tytko, Tetiana
+      + Tytko, Tetiana (completed)
+      
     
   + Proposal qualifying papers
       + Hersh, Meghan
-      + Jia, Ruirui
-      + Ogawa, Sanshiro
-      + Park, Sohye
-      + Tytko, Tetiana
-      + Wu, Congyao
-      + Woodward, Jill
+      + Jia, Ruirui (completed)
+      + Ogawa, Sanshiro (completed)
+      + Park, Sohye (completed)
+      + Ryu, Hyeran 
+      + Tytko, Tetiana (completed)
     
   + Dissertations 
-    + Deng, Zhiyuan^3,4^ (co-chair with Kira Gor)\
-    + Iizuka, Takehiro^1,3,4^\
-    + Malone, Jon^1,2,4^ (co-chair with Kira Gor)\
+    + Deng, Zhiyuan^3,4^ (co-chair with Kira Gor; completed)
+    + Iizuka, Takehiro^1,3,4^ (completed)
+    + Malone, Jon^1,2,4^ (co-chair with Kira Gor, completed)
     + Park, Sohye (co-chair with Ekaterina Sudina)
-    + Pulupa, Catherine
+    + Pulupa, Catherine (completed)
     + Tytko, Tetiana
     
     *Notes*: ^1^recipient of the *Language Learning* Dissertation Grant; ^2^recipient of the TIRF Doctoral Dissertation Grant; ^3^recipient of the TOEFL Grant for Doctoral Research in Language Assessment; ^4^recipient of the Duolingo Doctoral Dissertation Award

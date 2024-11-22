@@ -8,10 +8,12 @@ title: "Publications"
 
 ## Journal articles
 
+Chan, R., Cayado, D., & **Hui, B.** ([in-principle acceptance](https://onlinelibrary.wiley.com/page/journal/14679922/homepage/registered_reports.htm)). Covert activation of bilinguals' non-current language and implicit learning. *Language Learning*. <img src="images/preregistered.png" width="25" height="25"/>
+
 **Hui, B.** & Godfroid, A. ([in-principle acceptance](https://onlinelibrary.wiley.com/page/journal/14679922/homepage/registered_reports.htm)). Audiobooks decomposed: Toward a psycholinguistic account of the benefits of reading-while-listening for verbal comprehension. *Language Learning*. <img src="images/preregistered.png" width="25" height="25"/>
 
 <!-- -->
-19. **Hui, B. **, Godfroid, A., & Elgort, I. (in press). A construct validation study of time-sensitive word knowledge measures. *Applied Linguistics*. <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> ([Materials, data, and R code](https://osf.io/uyfh5/), [pre-print](https://doi.org/10.31219/osf.io/dwjmn))
+19. **Hui, B.**, Godfroid, A., & Elgort, I. (in press). A construct validation study of time-sensitive word knowledge measures. *Applied Linguistics*. <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> ([Materials, data, and R code](https://osf.io/uyfh5/), [pre-print](https://doi.org/10.31219/osf.io/dwjmn))
 
 <!-- -->
 18. **Hui, B.** (2024). Scaffolding comprehension with reading-while-listening and the role of reading speed and text complexity. *The Modern Language Journal, 108*(1), 183-200 <https://doi.org/10.1111/modl.12905> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/dt6ah/))
