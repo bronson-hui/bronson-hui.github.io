@@ -21,6 +21,7 @@ title: "Teaching"
   + Dissertations 
     + Deng, Zhiyuan^3,4^ (co-chair with Kira Gor; completed)
     + Iizuka, Takehiro^1,3,4^ (completed)
+    + Jia, Ruirui 
     + Malone, Jon^1,2,4^ (co-chair with Kira Gor, completed)
     + Park, Sohye (co-chair with Ekaterina Sudina)
     + Pulupa, Catherine (completed)
