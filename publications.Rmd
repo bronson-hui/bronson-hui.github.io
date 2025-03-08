@@ -10,10 +10,11 @@ title: "Publications"
 
 Chan, R., Cayado, D., & **Hui, B.** ([in-principle acceptance](https://onlinelibrary.wiley.com/page/journal/14679922/homepage/registered_reports.htm)). Covert activation of bilinguals' non-current language and implicit learning. *Language Learning*. <img src="images/preregistered.png" width="25" height="25"/>
 
-**Hui, B.** & Godfroid, A. ([in-principle acceptance](https://onlinelibrary.wiley.com/page/journal/14679922/homepage/registered_reports.htm)). Audiobooks decomposed: Toward a psycholinguistic account of the benefits of reading-while-listening for verbal comprehension. *Language Learning*. <img src="images/preregistered.png" width="25" height="25"/>
+21. Godfroid, A. & **Hui, B.** (in press) Research timeline: Eye-tracking research in instructed second language acquisition. *Language Teaching*. 
 
 <!-- -->
-20. Godfroid, A. & **Hui, B.** (in press) Research timeline: Eye-tracking research in instructed second language acquisition. *Language Teaching*. 
+
+20. **Hui, B.** & Godfroid, A. (in press). Listening, Reading, or Both? Rethinking the Comprehension Benefits of Reading-While-Listening. *Language Learning*. <img src="images/preregistered.png" width="25" height="25"/> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> ([Materials, data, and R code](https://osf.io/fqkdy/))
 
 <!-- -->
 19. **Hui, B.**, Godfroid, A., & Elgort, I. (in press). A construct validation study of time-sensitive word knowledge measures. *Applied Linguistics*. <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> ([Materials, data, and R code](https://osf.io/uyfh5/), [pre-print](https://doi.org/10.31219/osf.io/dwjmn))
