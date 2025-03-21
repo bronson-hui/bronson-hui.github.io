@@ -14,7 +14,7 @@ Chan, R., Cayado, D., & **Hui, B.** ([in-principle acceptance](https://onlinelib
 
 <!-- -->
 
-20. **Hui, B.** & Godfroid, A. (in press). Listening, Reading, or Both? Rethinking the Comprehension Benefits of Reading-While-Listening. *Language Learning*. <img src="images/preregistered.png" width="25" height="25"/> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> ([Materials, data, and R code](https://osf.io/fqkdy/))
+20. **Hui, B.** & Godfroid, A. (in press). Listening, reading, or both? Rethinking the comprehension benefits of reading-while-listening. *Language Learning*. <img src="images/preregistered.png" width="25" height="25"/> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> ([Materials, data, and R code](https://osf.io/fqkdy/))
 
 <!-- -->
 19. **Hui, B.**, Godfroid, A., & Elgort, I. (in press). A construct validation study of time-sensitive word knowledge measures. *Applied Linguistics*. <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> ([Materials, data, and R code](https://osf.io/uyfh5/), [pre-print](https://doi.org/10.31219/osf.io/dwjmn))
