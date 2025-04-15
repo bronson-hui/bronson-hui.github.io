@@ -9,7 +9,6 @@ title: "Teaching"
       + Simmons, Stefaine
       + Tytko, Tetiana (completed)
       
-    
   + Proposal qualifying papers
       + Hersh, Meghan
       + Jia, Ruirui (completed)
@@ -17,6 +16,7 @@ title: "Teaching"
       + Park, Sohye (completed)
       + Ryu, Hyeran 
       + Tytko, Tetiana (completed)
+      + Wu, Zhiyi (completed)
     
   + Dissertations 
     + Deng, Zhiyuan^3,4^ (co-chair with Kira Gor; completed)
