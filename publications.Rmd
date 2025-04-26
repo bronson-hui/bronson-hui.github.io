@@ -10,18 +10,22 @@ title: "Publications"
 
 Chan, R., Cayado, D., & **Hui, B.** ([in-principle acceptance](https://onlinelibrary.wiley.com/page/journal/14679922/homepage/registered_reports.htm)). Covert activation of bilinguals' non-current language and implicit learning. *Language Learning*. <img src="images/preregistered.png" width="25" height="25"/>
 
-23. Godfroid, A. & **Hui, B.** (in press). Research timeline: Eye-tracking research in instructed second language acquisition. *Language Teaching*. 
+24. Godfroid, A. & **Hui, B.** (in press). Research timeline: Eye-tracking research in instructed second language acquisition. *Language Teaching*. 
 
 <!-- -->
 
-22. **Hui, B.** & Godfroid, A. (in press). Listening, reading, or both? Rethinking the comprehension benefits of reading-while-listening. *Language Learning*. <img src="images/preregistered.png" width="25" height="25"/> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> ([Materials, data, and R code](https://osf.io/fqkdy/))
+23. **Hui, B.** & Godfroid, A. (in press). Listening, reading, or both? Rethinking the comprehension benefits of reading-while-listening. *Language Learning*. <img src="images/preregistered.png" width="25" height="25"/> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> ([Materials, data, and R code](https://osf.io/fqkdy/))
 
 <!-- -->
-21. **Hui, B.**, Godfroid, A., & Elgort, I. (in press). A construct validation study of time-sensitive word knowledge measures. *Applied Linguistics*. <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> ([Materials, data, and R code](https://osf.io/uyfh5/), [pre-print](https://doi.org/10.31219/osf.io/dwjmn))
+22. **Hui, B.**, Godfroid, A., & Elgort, I. (in press). A construct validation study of time-sensitive word knowledge measures. *Applied Linguistics*. <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> ([Materials, data, and R code](https://osf.io/uyfh5/), [pre-print](https://doi.org/10.31219/osf.io/dwjmn))
 
 <!-- -->
 
-20. \^ Jia, R. & **Hui, B.** (in press). Modeling relationships between learning conditions, processes, and outcomes: An introduction to mediation analysis in SLA research. *Studies in Second Language Acquisition*.
+21. \^ Jia, R. & **Hui, B.** (in press). Modeling relationships between learning conditions, processes, and outcomes: An introduction to mediation analysis in SLA research. *Studies in Second Language Acquisition*.
+
+<!-- -->
+20. \^ Malone, J., **Hui, B.**, Pandža, N., & \^ Tytko, T. (in press). Eye movements, item modality, and multimodal L2 vocabulary learning: Processing and outcomes. *Language Learning*. 
+
 
 <!-- -->
 19. Suzuki, Y., Maie, R., & **Hui, B.** (in press). Research timeline: Automatization in second language learning. *Language Teaching*. 
