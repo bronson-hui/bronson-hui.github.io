@@ -4,12 +4,12 @@ title: "Teaching"
 
 ## Student advising as (co-)chair 
 * University of Maryland, College Park
-  + Full, empirical qualifying papers 
+  + Primary qualifying papers (full empirical study)
       + Woodward, Jill
       + Simmons, Stefaine
       + Tytko, Tetiana (completed)
       
-  + Proposal qualifying papers
+  + Secondary qualifying papers (research proposal)
       + Hersh, Meghan
       + Jia, Ruirui (completed)
       + Ogawa, Sanshiro (completed)
@@ -27,7 +27,7 @@ title: "Teaching"
     + Pulupa, Catherine (completed)
     + Tytko, Tetiana^5^
     
-    *Notes*: ^1^recipient of the *Language Learning* Dissertation Grant; ^2^recipient of the TIRF Doctoral Dissertation Grant; ^3^recipient of the TOEFL Grant for Doctoral Research in Language Assessment; ^4^recipient of the Duolingo Doctoral Dissertation Award; ^5^recipient of the NFMLTA/MLJ Dissertation Writing Support Grant
+    *Notes*: Superscripts indicate that the student was a recipient of ^1^the *Language Learning* Dissertation Grant; ^2^the TIRF Doctoral Dissertation Grant; ^3^the TOEFL Grant for Doctoral Research in Language Assessment; ^4^the Duolingo Doctoral Dissertation Award; ^5^the NFMLTA/MLJ Dissertation Writing Support Grant
     
 ## Graduate-level courses
 
