@@ -6,7 +6,13 @@ title: "Publications"
 
 \^ student collaborators
 
-## Edited volume
+## Book and edited volumes
+**Hui, B.** & Pandža, N. (under contract). *The open handbook of quantitative data analysis in applied linguistics (Part 1): From data dances to regression revelry*. [Applied Linguistics Press](https://www.appliedlinguisticspress.org/home).
+
+**Hui, B.** & Pandža, N. (Eds). (under contract). *The open handbook of quantitative data analysis in applied linguistics (Part 2): From R script to manuscript*. [Applied Linguistics Press](https://www.appliedlinguisticspress.org/home).
+
+Rogers, J. & Hui, B. (Eds). (in prep). Online experimentation in second language research. *Research Methods in Applied Linguistics*.
+
 1. **Hui, B.** & Kessler, M. (Eds). (in press). Connecting multimodal learning processes and outcomes in CALL. *Language Learning & Technology.*
 
 ## Journal articles
