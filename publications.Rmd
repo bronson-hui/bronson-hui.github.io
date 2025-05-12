@@ -6,18 +6,25 @@ title: "Publications"
 
 \^ student collaborators
 
+## Edited volume
+1. **Hui, B.** & Kessler, M. (Eds). (in press). Connecting multimodal learning processes and outcomes in CALL. *Language Learning & Technology.*
+
 ## Journal articles
 
 Chan, R., Cayado, D., & **Hui, B.** ([in-principle acceptance](https://onlinelibrary.wiley.com/page/journal/14679922/homepage/registered_reports.htm)). Covert activation of bilinguals' non-current language and implicit learning. *Language Learning*. <img src="images/preregistered.png" width="25" height="25"/>
 
-24. Godfroid, A. & **Hui, B.** (in press). Research timeline: Eye-tracking research in instructed second language acquisition. *Language Teaching*. 
+25. Godfroid, A. & **Hui, B.** (in press). Research timeline: Eye-tracking research in instructed second language acquisition. *Language Teaching*. 
 
 <!-- -->
 
-23. **Hui, B.** & Godfroid, A. (in press). Listening, reading, or both? Rethinking the comprehension benefits of reading-while-listening. *Language Learning*. <img src="images/preregistered.png" width="25" height="25"/> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> ([Materials, data, and R code](https://osf.io/fqkdy/))
+24. **Hui, B.** & Godfroid, A. (in press). Listening, reading, or both? Rethinking the comprehension benefits of reading-while-listening. *Language Learning*. <img src="images/preregistered.png" width="25" height="25"/> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> ([Materials, data, and R code](https://osf.io/fqkdy/))
 
 <!-- -->
-22. **Hui, B.**, Godfroid, A., & Elgort, I. (in press). A construct validation study of time-sensitive word knowledge measures. *Applied Linguistics*. <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> ([Materials, data, and R code](https://osf.io/uyfh5/), [pre-print](https://doi.org/10.31219/osf.io/dwjmn))
+23. **Hui, B.**, Godfroid, A., & Elgort, I. (in press). A construct validation study of time-sensitive word knowledge measures. *Applied Linguistics*. <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> ([Materials, data, and R code](https://osf.io/uyfh5/), [pre-print](https://doi.org/10.31219/osf.io/dwjmn))
+
+<!-- -->
+
+22. **Hui, B.** & Kessler, M. (in press). Connecting multimodal learning processes and outcomes in CALL: Introduction to the special issue. *Language Learning & Technology*
 
 <!-- -->
 
