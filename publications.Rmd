@@ -19,29 +19,29 @@ Rogers, J. & Hui, B. (Eds). (in prep). Online experimentation in second language
 
 Chan, R., Cayado, D., & **Hui, B.** ([in-principle acceptance](https://onlinelibrary.wiley.com/page/journal/14679922/homepage/registered_reports.htm)). Covert activation of bilinguals' non-current language and implicit learning. *Language Learning*. <img src="images/preregistered.png" width="25" height="25"/>
 
-25. Godfroid, A. & **Hui, B.** (in press). Research timeline: Eye-tracking research in instructed second language acquisition. *Language Teaching*. 
+25. **Hui, B.** & Godfroid, A. (in press). Listening, reading, or both? Rethinking the comprehension benefits of reading-while-listening. *Language Learning*. <img src="images/preregistered.png" width="25" height="25"/> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> ([Materials, data, and R code](https://osf.io/fqkdy/))
+
+<!-- -->
+24. **Hui, B.**, Godfroid, A., & Elgort, I. (in press). A construct validation study of time-sensitive word knowledge measures. *Applied Linguistics*. <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> ([Materials, data, and R code](https://osf.io/uyfh5/), [pre-print](https://doi.org/10.31219/osf.io/dwjmn))
 
 <!-- -->
 
-24. **Hui, B.** & Godfroid, A. (in press). Listening, reading, or both? Rethinking the comprehension benefits of reading-while-listening. *Language Learning*. <img src="images/preregistered.png" width="25" height="25"/> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> ([Materials, data, and R code](https://osf.io/fqkdy/))
-
-<!-- -->
-23. **Hui, B.**, Godfroid, A., & Elgort, I. (in press). A construct validation study of time-sensitive word knowledge measures. *Applied Linguistics*. <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> ([Materials, data, and R code](https://osf.io/uyfh5/), [pre-print](https://doi.org/10.31219/osf.io/dwjmn))
+23. **Hui, B.** & Kessler, M. (in press). Connecting multimodal learning processes and outcomes in CALL: Introduction to the special issue. *Language Learning & Technology*
 
 <!-- -->
 
-22. **Hui, B.** & Kessler, M. (in press). Connecting multimodal learning processes and outcomes in CALL: Introduction to the special issue. *Language Learning & Technology*
+22. \^ Jia, R. & **Hui, B.** (in press). Modeling relationships between learning conditions, processes, and outcomes: An introduction to mediation analysis in SLA research. *Studies in Second Language Acquisition*.
 
 <!-- -->
-
-21. \^ Jia, R. & **Hui, B.** (in press). Modeling relationships between learning conditions, processes, and outcomes: An introduction to mediation analysis in SLA research. *Studies in Second Language Acquisition*.
-
-<!-- -->
-20. \^ Malone, J., **Hui, B.**, Pandža, N., & \^ Tytko, T. (in press). Eye movements, item modality, and multimodal L2 vocabulary learning: Processing and outcomes. *Language Learning*. 
+21. \^ Malone, J., **Hui, B.**, Pandža, N., & \^ Tytko, T. (in press). Eye movements, item modality, and multimodal L2 vocabulary learning: Processing and outcomes. *Language Learning*. 
 
 
 <!-- -->
-19. Suzuki, Y., Maie, R., & **Hui, B.** (in press). Research timeline: Automatization in second language learning. *Language Teaching*. 
+20. Suzuki, Y., Maie, R., & **Hui, B.** (in press). Research timeline: Automatization in second language learning. *Language Teaching*. 
+
+<!-- -->
+
+19. Godfroid, A. & **Hui, B.** (2025). Eye-tracking research in instructed second language acquisition. *Language Teaching*. Advance online publication. <https://doi.org/10.1017/S0261444825000102> <img src="images/open-access.png" width="20" height="25"/>
 
 <!-- -->
 18. **Hui, B.** (2024). Scaffolding comprehension with reading-while-listening and the role of reading speed and text complexity. *The Modern Language Journal, 108*(1), 183-200 <https://doi.org/10.1111/modl.12905> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/dt6ah/))
