@@ -61,7 +61,7 @@ Chan, R., Cayado, D., & **Hui, B.** ([in-principle acceptance](https://onlinelib
 
 <!-- -->
 
-15. \@ The TwiLex Group (2024). First language effects on incidental vocabulary learning through bimodal input: A multisite, preregistered, and close replication of Malone (2018). *Studies in Second Language Acquisition*. Advance online publication. <https://doi.org/10.1017/S0272263124000275> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/preregistered.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/>\
+15. \@ The TwiLex Group (2024). First language effects on incidental vocabulary learning through bimodal input: A multisite, preregistered, and close replication of Malone (2018). *Studies in Second Language Acquisition, 45*(5), 1413-1438. <https://doi.org/10.1017/S0272263124000275> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/preregistered.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/vntra/))\
     \
     \@ This is a team publication. Here is our CRediT author statement (ordered by author’s last name alphabetically): Chen, Yingzhao: Conceptualization, Methodology, Software, Writing - Original Draft, Writing - Review & Editing, Project Administration; Gao, Jianwu: Investigation, Writing - Original Draft, Writing - Review & Editing, Funding Acquisition; Hirzinger-Unterrainer, Eva: Investigation; **Hui, Bronson: Conceptualization, Methodology, Data Curation, Writing - Original Draft, Writing - Review & Editing, Project Administration, Funding Acquisition**; Kremmel, Benjamin: Investigation, Writing - Review & Editing, Funding Acquisition; Li, Peilin: Investigation; Ma, Shuang: Investigation, Writing - Review & Editing; Maie, Ryo: Methodology, Formal Analysis, Writing - Original Draft, Writing - Review & Editing, Visualization; Puimège, Eva: Investigation, Writing - Review & Editing; Rogers, John: Investigation, Writing - Original Draft, Writing - Review & Editing, Funding Acquisition; ^ Wilson, Micheline: Writing - Original Draft, Writing - Review & Editing, Project Administration
 
@@ -109,7 +109,7 @@ Chan, R., Cayado, D., & **Hui, B.** ([in-principle acceptance](https://onlinelib
 
 <!-- -->
 
-4.  **Hui, B.** (2020). Processing variability in intentional and incidental word learning: An extension of Solovyeva and DeKeyser (2018). *Studies in Second Language Acquisition, 42*(2), 327-357. <https://doi.org/10.1017/S0272263119000603> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> ([accepted version, materials, data, R code, and accepted version](http://doi.org/10.17605/OSF.IO/2TA7M)).
+4.  **Hui, B.** (2020). Processing variability in intentional and incidental word learning: An extension of Solovyeva and DeKeyser (2018). *Studies in Second Language Acquisition, 42*(2), 327-357. <https://doi.org/10.1017/S0272263119000603> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> ([accepted version, materials, data, R code](http://doi.org/10.17605/OSF.IO/2TA7M)).
 
 <!-- -->
 
