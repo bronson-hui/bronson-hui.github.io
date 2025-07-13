@@ -27,21 +27,21 @@ Chan, R., Cayado, D., & **Hui, B.** ([in-principle acceptance](https://onlinelib
 25. **Hui, B.** & Kessler, M. (in press). Connecting multimodal learning processes and outcomes in CALL: Introduction to the special issue. *Language Learning & Technology*
 
 <!-- -->
-
-24. \^ Jia, R. & **Hui, B.** (in press). Modeling relationships between learning conditions, processes, and outcomes: An introduction to mediation analysis in SLA research. *Studies in Second Language Acquisition*.
-
-<!-- -->
-23. \^ Malone, J., **Hui, B.**, Pandža, N., & \^ Tytko, T. (in press). Eye movements, item modality, and multimodal L2 vocabulary learning: Processing and outcomes. *Language Learning*. 
+24. \^ Malone, J., **Hui, B.**, Pandža, N., & \^ Tytko, T. (in press). Eye movements, item modality, and multimodal L2 vocabulary learning: Processing and outcomes. *Language Learning*. 
 
 <!-- -->
-22. \^ Wu, Z., \^ Jia, R., & **Hui, B.** (in press). Saving the Reliability of Inhibitory Control Measures?  An Extension of Huensch (2024) and Hui and Wu (2024). *Studies in Second Language Acquisition*.
+23. \^ Wu, Z., \^ Jia, R., & **Hui, B.** (in press). Saving the Reliability of Inhibitory Control Measures?  An Extension of Huensch (2024) and Hui and Wu (2024). *Studies in Second Language Acquisition*.
 
 <!-- -->
 
-21. Godfroid, A. & **Hui, B.** (2025). Eye-tracking research in instructed second language acquisition. *Language Teaching*. Advance online publication. <https://doi.org/10.1017/S0261444825000102> <img src="images/open-access.png" width="20" height="25"/>
+22. Godfroid, A. & **Hui, B.** (2025). Eye-tracking research in instructed second language acquisition. *Language Teaching*. Advance online publication. <https://doi.org/10.1017/S0261444825000102> <img src="images/open-access.png" width="20" height="25"/>
 
 <!-- -->
-20. **Hui, B.** & Godfroid, A. (2025). Listening, reading, or both? Rethinking the comprehension benefits of reading-while-listening. *Language Learning*. Advance online publication. <https://doi.org/10.1111/lang.12721> <img src="images/preregistered.png" width="25" height="25"/> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/fqkdy/))
+21. **Hui, B.** & Godfroid, A. (2025). Listening, reading, or both? Rethinking the comprehension benefits of reading-while-listening. *Language Learning*. Advance online publication. <https://doi.org/10.1111/lang.12721> <img src="images/preregistered.png" width="25" height="25"/> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/fqkdy/))
+
+<!-- -->
+
+20. \^ Jia, R. & **Hui, B.** (2025). Modeling relationships between learning conditions, processes, and outcomes: An introduction to mediation analysis in SLA research. *Studies in Second Language Acquisition.* Advance online publication. <https://doi.org/10.1017/S0272263125100867> <img src="images/open-access.png" width="20" height="25"/>
 
 <!-- -->
 
