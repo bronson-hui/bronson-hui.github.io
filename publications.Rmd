@@ -125,9 +125,9 @@ Chan, R., Cayado, D., & **Hui, B.** ([in-principle acceptance](https://onlinelib
 1.  **Hui, B.** (2010). Backward transfer from L3 French to L2 English production of relative clauses by L1 Cantonese speakers in Hong Kong. *Hong Kong Journal of Applied Linguistics, 12*(2), 45–60. ([Full Text](http://caes.hku.hk/hkjalonline/issues/?guest_id=fa0f4c561c85193b7c0d4c2f2e20e579bddffa71727e481694bca5cd8ce557d2&file=2010_v12_2_hui.pdf))
 
 ## Book chapters
-6. Jia, R. & **Hui, B.** (In press). Second language automaticity. In H. Nesi & P. Milton (Eds.), *International Encyclopedia of Language and Linguistics* (3rd ed.). Elsevier.
+6. \^ Jia, R. & **Hui, B.** (in press). Second language automaticity. In H. Nesi & P. Milton (Eds.), *International Encyclopedia of Language and Linguistics* (3rd ed.). Elsevier.
 <!-- -->
-5. Ogawa, S. & **Hui, B.** (in press). Synthetic Speech and AI Voices in L2 Listening Assessment: Potentials and Challenges. In Wagner, E. & In’nami, Y. (Eds.), *The theory and practice of second language listening assessment*. [Applied Linguistics Press](https://www.appliedlinguisticspress.org/home).
+5. \^ Ogawa, S. & **Hui, B.** (in press). Synthetic Speech and AI Voices in L2 Listening Assessment: Potentials and Challenges. In Wagner, E. & In’nami, Y. (Eds.), *The theory and practice of second language listening assessment*. [Applied Linguistics Press](https://www.appliedlinguisticspress.org/home).
 <!-- -->
 
 4. Chung, E., Wan, A., & **Hui, B.** (2024). Replication studies in language teaching. In *International encyclopedia of language and linguistics* (3rd Ed). Elsevier. <https://doi.org/10.1016/B978-0-323-95504-1.00205-2>
