@@ -10,7 +10,7 @@ title: "Teaching"
       + Tytko, Tetiana (completed)
       
   + Secondary qualifying papers (research proposal)
-      + Hersh, Meghan
+      + Hersh, Meghan (completed)
       + Jia, Ruirui (completed)
       + Ogawa, Sanshiro (completed)
       + Park, Sohye (completed)
@@ -20,12 +20,13 @@ title: "Teaching"
     
   + Dissertations 
     + Deng, Zhiyuan^3,4^ (co-chair with Kira Gor; completed)
+    + Hersh, Meghan
     + Iizuka, Takehiro^1,3,4^ (completed)
     + Jia, Ruirui 
     + Malone, Jon^1,2,4^ (co-chair with Kira Gor, completed)
     + Park, Sohye (co-chair with Ekaterina Sudina)
     + Pulupa, Catherine (completed)
-    + Tytko, Tetiana^5^
+    + Tytko, Tetiana^4,5^
     
     *Notes*: Superscripts indicate that the student was a recipient of ^1^the *Language Learning* Dissertation Grant; ^2^the TIRF Doctoral Dissertation Grant; ^3^the TOEFL Grant for Doctoral Research in Language Assessment; ^4^the Duolingo Doctoral Dissertation Award; ^5^the NFMLTA/MLJ Dissertation Writing Support Grant
     
@@ -33,11 +34,11 @@ title: "Teaching"
 
 * University of Maryland, College Park
 
-  + *SLAA 620 Second Language Research Methodologies* Fall, 2023; Fall 2024
+  + *SLAA 620 Second Language Research Methodologies* Fall, 2023; Fall 2024; Fall, 2025
   + *SLAA 640 Psycholinguistics* Fall, 2022
   + *SLAA 649R Research Critique in Second Language Acquisition* Spring, 2023; Fall 2024
   + *SLAA 479T Advanced Statistics for Second Language Research* Spring 2025
-  + *SLAA 750 Instructed Second Language Acquisition* Fall, 2022; Fall, 2023
+  + *SLAA 750 Instructed Second Language Acquisition* Fall, 2022; Fall, 2023; Fall, 2025
   + *SLAA 759L Vocabulary Acquisition in Instructional Contexts* Spring, 2023; Spring 2025 
 
 * Michigan State University

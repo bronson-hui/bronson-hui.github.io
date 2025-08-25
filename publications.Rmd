@@ -27,25 +27,26 @@ Chan, R., Cayado, D., & **Hui, B.** ([in-principle acceptance](https://onlinelib
 25. \^ Malone, J., **Hui, B.**, Pandža, N., & \^ Tytko, T. (in press). Eye movements, item modality, and multimodal L2 vocabulary learning: Processing and outcomes. *Language Learning*. 
 
 <!-- -->
-24. \^ Wu, Z., \^ Jia, R., & **Hui, B.** (in press). Saving the Reliability of Inhibitory Control Measures?  An Extension of Huensch (2024) and Hui and Wu (2024). *Studies in Second Language Acquisition*.
+
+24. Godfroid, A. & **Hui, B.** (2025). Eye-tracking research in instructed second language acquisition. *Language Teaching*. Advance online publication. <https://doi.org/10.1017/S0261444825000102> <img src="images/open-access.png" width="20" height="25"/>
 
 <!-- -->
 
-23. Godfroid, A. & **Hui, B.** (2025). Eye-tracking research in instructed second language acquisition. *Language Teaching*. Advance online publication. <https://doi.org/10.1017/S0261444825000102> <img src="images/open-access.png" width="20" height="25"/>
+23. **Hui, B.** & Godfroid, A. (2025). Listening, reading, or both? Rethinking the comprehension benefits of reading-while-listening. *Language Learning*. Advance online publication. <https://doi.org/10.1111/lang.12721> <img src="images/preregistered.png" width="25" height="25"/> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/fqkdy/))
 
 <!-- -->
-22. **Hui, B.** & Godfroid, A. (2025). Listening, reading, or both? Rethinking the comprehension benefits of reading-while-listening. *Language Learning*. Advance online publication. <https://doi.org/10.1111/lang.12721> <img src="images/preregistered.png" width="25" height="25"/> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/fqkdy/))
-
-<!-- -->
-21. **Hui, B.**, Godfroid, A., & Elgort, I. (2025). A construct validation study of time-sensitive word knowledge measures. *Applied Linguistics*. Advance online publication. <https://doi.org/10.1093/applin/amaf037> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/uyfh5/)
+22. **Hui, B.**, Godfroid, A., & Elgort, I. (2025). A construct validation study of time-sensitive word knowledge measures. *Applied Linguistics*. Advance online publication. <https://doi.org/10.1093/applin/amaf037> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/uyfh5/)
 
 <!-- -->
 
-20. \^ Jia, R. & **Hui, B.** (2025). Modeling relationships between learning conditions, processes, and outcomes: An introduction to mediation analysis in SLA research. *Studies in Second Language Acquisition.* Advance online publication. <https://doi.org/10.1017/S0272263125100867> <img src="images/open-access.png" width="20" height="25"/>
+21. \^ Jia, R. & **Hui, B.** (2025). Modeling relationships between learning conditions, processes, and outcomes: An introduction to mediation analysis in SLA research. *Studies in Second Language Acquisition.* Advance online publication. <https://doi.org/10.1017/S0272263125100867> <img src="images/open-access.png" width="20" height="25"/>
 
 <!-- -->
 
-19. Suzuki, Y., Maie, R., & **Hui, B.** (2025). Research timeline: Automatization in second language learning. *Language Teaching*. Advance online publication. <https://doi.org/10.1017/S026144482500059X> <img src="images/open-access.png" width="20" height="25"/>
+20. Suzuki, Y., Maie, R., & **Hui, B.** (2025). Research timeline: Automatization in second language learning. *Language Teaching*. Advance online publication. <https://doi.org/10.1017/S026144482500059X> <img src="images/open-access.png" width="20" height="25"/>
+
+<!-- -->
+19. \^ Wu, Z., \^ Jia, R., & **Hui, B.** (2025). Saving the Reliability of Inhibitory Control Measures?  An Extension of Huensch (2024) and Hui and Wu (2024). *Studies in Second Language Acquisition*. Advance online publication. <https://doi.org/10.1017/S0272263125101095> <img src="images/open-access.png" width="20" height="25"/>
 
 <!-- -->
 
@@ -124,6 +125,10 @@ Chan, R., Cayado, D., & **Hui, B.** ([in-principle acceptance](https://onlinelib
 1.  **Hui, B.** (2010). Backward transfer from L3 French to L2 English production of relative clauses by L1 Cantonese speakers in Hong Kong. *Hong Kong Journal of Applied Linguistics, 12*(2), 45–60. ([Full Text](http://caes.hku.hk/hkjalonline/issues/?guest_id=fa0f4c561c85193b7c0d4c2f2e20e579bddffa71727e481694bca5cd8ce557d2&file=2010_v12_2_hui.pdf))
 
 ## Book chapters
+6. Jia, R. & **Hui, B.** (In press). Second language automaticity. In H. Nesi & P. Milton (Eds.), *International Encyclopedia of Language and Linguistics* (3rd ed.). Elsevier.
+<!-- -->
+5. Ogawa, S. & **Hui, B.** (in press). Synthetic Speech and AI Voices in L2 Listening Assessment: Potentials and Challenges. In Wagner, E. & In’nami, Y. (Eds.), *The theory and practice of second language listening assessment*. [Applied Linguistics Press](https://www.appliedlinguisticspress.org/home).
+<!-- -->
 
 4. Chung, E., Wan, A., & **Hui, B.** (2024). Replication studies in language teaching. In *International encyclopedia of language and linguistics* (3rd Ed). Elsevier. <https://doi.org/10.1016/B978-0-323-95504-1.00205-2>
 
