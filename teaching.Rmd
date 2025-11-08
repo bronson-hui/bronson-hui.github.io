@@ -5,9 +5,12 @@ title: "Teaching"
 ## Student advising as (co-)chair 
 * University of Maryland, College Park
   + Primary qualifying papers (full empirical study)
+      + Cui, Jizhen
       + Woodward, Jill
-      + Simmons, Stefaine
+      + Wu, Congyao
+      + Simmons, Stefaine (completed)
       + Tytko, Tetiana (completed)
+      + Zhang, Danni
       
   + Secondary qualifying papers (research proposal)
       + Hersh, Meghan (completed)
@@ -16,14 +19,14 @@ title: "Teaching"
       + Park, Sohye (completed)
       + Ryu, Hyeran 
       + Tytko, Tetiana (completed)
-      + Wu, Zhiyi (completed; see Wu & Toda Cosi ([2025](https://doi.org/10.1016/j.rmal.2025.100247)))
+      + Wu, Zhiyi (completed; see [Wu & Toda Cosi, 2025](https://doi.org/10.1016/j.rmal.2025.100247))
     
   + Dissertations 
     + Deng, Zhiyuan^3,4^ (co-chair with Kira Gor; completed)
     + Hersh, Meghan
     + Iizuka, Takehiro^1,3,4^ (completed)
     + Jia, Ruirui 
-    + Malone, Jon^1,2,4^ (co-chair with Kira Gor; completed; see Malone ([2025](https://doi.org/10.64152/10125/73647)); Malone et al. ([2025](https://doi.org/10.1111/lang.70007)))
+    + Malone, Jon^1,2,4^ (co-chair with Kira Gor; completed; see [Malone, 2025](https://doi.org/10.64152/10125/73647); [Malone et al. 2025](https://doi.org/10.1111/lang.70007))
     + Park, Sohye (co-chair with Ekaterina Sudina)
     + Pulupa, Catherine (completed)
     + Tytko, Tetiana^4,5^
