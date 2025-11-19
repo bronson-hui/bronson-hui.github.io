@@ -21,60 +21,68 @@ Chan, R., Cayado, D., & **Hui, B.** ([in-principle acceptance](https://onlinelib
 
 <!-- -->
 
-27. \^ Tytko, T., **Hui, B.**, & Pandža, N. (in press). The effect of multimodal input on L2 learners’ reading comprehension: A pre-registered, eye-tracking study. *The Modern Language Journal*.
+29. \^ Malone, J. & **Hui, B.** (accepted pending revisions). Audiovisual (a)synchrony: Reading ahead as a mechanism for L2 vocabulary processing and learning benefits of reading while listening. *Studies in Second Language Acquisition.*
 
 <!-- -->
 
-26. Godfroid, A. & **Hui, B.** (2025). Eye-tracking research in instructed second language acquisition. *Language Teaching*. Advance online publication. <https://doi.org/10.1017/S0261444825000102> <img src="images/open-access.png" width="20" height="25"/>
+28. \^ Tytko, T., **Hui, B.**, & Pandža, N. (in press). The effect of multimodal input on L2 learners’ reading comprehension: A pre-registered, eye-tracking study. *The Modern Language Journal*.
 
 <!-- -->
 
-25. **Hui, B.** & Godfroid, A. (2025). Listening, reading, or both? Rethinking the comprehension benefits of reading-while-listening. *Language Learning*. Advance online publication. <https://doi.org/10.1111/lang.12721> <img src="images/preregistered.png" width="25" height="25"/> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/fqkdy/))
+27. Godfroid, A. & **Hui, B.** (2025). Eye-tracking research in instructed second language acquisition. *Language Teaching*. Advance online publication. <https://doi.org/10.1017/S0261444825000102> <img src="images/open-access.png" width="20" height="25"/>
 
 <!-- -->
 
-24. **Hui, B.**, Godfroid, A., & Elgort, I. (2025). A construct validation study of time-sensitive word knowledge measures. *Applied Linguistics*. Advance online publication. <https://doi.org/10.1093/applin/amaf037> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/uyfh5/)
+26. **Hui, B.** & Godfroid, A. (2025). Listening, reading, or both? Rethinking the comprehension benefits of reading-while-listening. *Language Learning*. Advance online publication. <https://doi.org/10.1111/lang.12721> <img src="images/preregistered.png" width="25" height="25"/> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/fqkdy/))
 
 <!-- -->
 
-23. **Hui, B.** & Kessler, M. (2025). Connecting multimodal learning processes and outcomes in CALL: Introduction to the special issue. *Language Learning & Technology*, *29*(3). <https://doi.org/10.64152/10125/73644> <img src="images/open-access.png" width="20" height="25"/>
+25. **Hui, B.**, Godfroid, A., & Elgort, I. (2025). A construct validation study of time-sensitive word knowledge measures. *Applied Linguistics*. Advance online publication. <https://doi.org/10.1093/applin/amaf037> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/uyfh5/)
 
 <!-- -->
 
-22. \^ Jia, R. & **Hui, B.** (2025). Modeling relationships between learning conditions, processes, and outcomes: An introduction to mediation analysis in SLA research. *Studies in Second Language Acquisition.* Advance online publication. <https://doi.org/10.1017/S0272263125100867> <img src="images/open-access.png" width="20" height="25"/>
+24. **Hui, B.** & Kessler, M. (2025). Connecting multimodal learning processes and outcomes in CALL: Introduction to the special issue. *Language Learning & Technology*, *29*(3). <https://doi.org/10.64152/10125/73644> <img src="images/open-access.png" width="20" height="25"/>
 
 <!-- -->
 
-21. \^ Malone, J., **Hui, B.**, Pandža, N., & \^ Tytko, T. (2025). Eye movements, item modality, and multimodal L2 vocabulary learning: Processing and outcomes. *Language Learning*. Advance online publication. <https://doi.org/10.1111/lang.70007> <img src="images/preregistered.png" width="25" height="25"/> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/9n8gx/))
+23. \^ Jia, R. & **Hui, B.** (2025). Modeling relationships between learning conditions, processes, and outcomes: An introduction to mediation analysis in SLA research. *Studies in Second Language Acquisition.* Advance online publication. <https://doi.org/10.1017/S0272263125100867> <img src="images/open-access.png" width="20" height="25"/>
 
 <!-- -->
 
-20. Suzuki, Y., Maie, R., & **Hui, B.** (2025). Research timeline: Automatization in second language learning. *Language Teaching*. Advance online publication. <https://doi.org/10.1017/S026144482500059X> <img src="images/open-access.png" width="20" height="25"/>
-
-<!-- -->
-19. \^ Wu, Z., \^ Jia, R., & **Hui, B.** (2025). Saving the Reliability of Inhibitory Control Measures?  An Extension of Huensch (2024) and Hui and Wu (2024). *Studies in Second Language Acquisition*. Advance online publication. <https://doi.org/10.1017/S0272263125101095> <img src="images/open-access.png" width="20" height="25"/>
+22. \^ Malone, J., **Hui, B.**, Pandža, N., & \^ Tytko, T. (2025). Eye movements, item modality, and multimodal L2 vocabulary learning: Processing and outcomes. *Language Learning*. Advance online publication. <https://doi.org/10.1111/lang.70007> <img src="images/preregistered.png" width="25" height="25"/> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/9n8gx/))
 
 <!-- -->
 
-18. **Hui, B.** (2024). Scaffolding comprehension with reading-while-listening and the role of reading speed and text complexity. *The Modern Language Journal, 108*(1), 183-200 <https://doi.org/10.1111/modl.12905> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/dt6ah/))
+21. Suzuki, Y., Maie, R., & **Hui, B.** (2025). Research timeline: Automatization in second language learning. *Language Teaching*. Advance online publication. <https://doi.org/10.1017/S026144482500059X> <img src="images/open-access.png" width="20" height="25"/>
+
+<!-- -->
+20. \^ Wu, Z., \^ Jia, R., & **Hui, B.** (2025). Saving the Reliability of Inhibitory Control Measures?  An Extension of Huensch (2024) and Hui and Wu (2024). *Studies in Second Language Acquisition*. Advance online publication. <https://doi.org/10.1017/S0272263125101095> <img src="images/open-access.png" width="20" height="25"/>
 
 <!-- -->
 
-17. **Hui, B.** & \^ Jia, R. (2024). Reflecting on the use of response times to index linguistic knowledge in SLA. *Annual Review of Applied Linguistics*. Advance online publication. <https://doi.org/10.1017/S0267190524000047> <img src="images/open-access.png" width="20" height="25"/>
+19. **Hui, B.** (2024). Scaffolding comprehension with reading-while-listening and the role of reading speed and text complexity. *The Modern Language Journal, 108*(1), 183-200 <https://doi.org/10.1111/modl.12905> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/dt6ah/))
 
 <!-- -->
 
-16. **Hui, B.** & \^ Wu, Z. (2024). Estimating reliability for response time difference measures: Towards a standardized, model-based approach. *Studies in Second Language Acquisition, 45*(1), 227-250. <https://doi.org/10.1017/S027226312300027X>. <img src="images/open-access.png" width="20" height="25"/>
+18. **Hui, B.** & \^ Jia, R. (2024). Reflecting on the use of response times to index linguistic knowledge in SLA. *Annual Review of Applied Linguistics*. Advance online publication. <https://doi.org/10.1017/S0267190524000047> <img src="images/open-access.png" width="20" height="25"/>
 
 <!-- -->
 
-15. \@ The TwiLex Group (2024). First language effects on incidental vocabulary learning through bimodal input: A multisite, preregistered, and close replication of Malone (2018). *Studies in Second Language Acquisition, 45*(5), 1413-1438. <https://doi.org/10.1017/S0272263124000275> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/preregistered.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/vntra/))\
+17. **Hui, B.** & \^ Wu, Z. (2024). Estimating reliability for response time difference measures: Towards a standardized, model-based approach. *Studies in Second Language Acquisition, 45*(1), 227-250. <https://doi.org/10.1017/S027226312300027X>. <img src="images/open-access.png" width="20" height="25"/>
+
+<!-- -->
+
+16. \@ The TwiLex Group (2024). First language effects on incidental vocabulary learning through bimodal input: A multisite, preregistered, and close replication of Malone (2018). *Studies in Second Language Acquisition, 45*(5), 1413-1438. <https://doi.org/10.1017/S0272263124000275> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/preregistered.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/vntra/))\
     \
     \@ This is a team publication. Here is our CRediT author statement (ordered by author’s last name alphabetically): Chen, Yingzhao: Conceptualization, Methodology, Software, Writing - Original Draft, Writing - Review & Editing, Project Administration; Gao, Jianwu: Investigation, Writing - Original Draft, Writing - Review & Editing, Funding Acquisition; Hirzinger-Unterrainer, Eva: Investigation; **Hui, Bronson: Conceptualization, Methodology, Data Curation, Writing - Original Draft, Writing - Review & Editing, Project Administration, Funding Acquisition**; Kremmel, Benjamin: Investigation, Writing - Review & Editing, Funding Acquisition; Li, Peilin: Investigation; Ma, Shuang: Investigation, Writing - Review & Editing; Maie, Ryo: Methodology, Formal Analysis, Writing - Original Draft, Writing - Review & Editing, Visualization; Puimège, Eva: Investigation, Writing - Review & Editing; Rogers, John: Investigation, Writing - Original Draft, Writing - Review & Editing, Funding Acquisition; ^ Wilson, Micheline: Writing - Original Draft, Writing - Review & Editing, Project Administration
 
 <!-- -->
 
-14. \^ Quan, Y., \^ Tytko, T., & **Hui, B.** (2024). Utilizing ASReview in screening primary studise for meta-research in SLA: A step-by-step tutorial. *Research Methods in Applied Linguistics, 3*(1), 100101. <https://doi.org/10.1016/j.rmal.2024.100101> <img src="images/open-access.png" width="20" height="25"/>
+15. \^ Quan, Y., \^ Tytko, T., & **Hui, B.** (2024). Utilizing ASReview in screening primary studise for meta-research in SLA: A step-by-step tutorial. *Research Methods in Applied Linguistics, 3*(1), 100101. <https://doi.org/10.1016/j.rmal.2024.100101> <img src="images/open-access.png" width="20" height="25"/>
+
+<!-- -->
+
+14. Zitzmann, S., Wagner, W., Lavelle-Hill, R., Jung, A. J., Jach, H., Loreth, L., Lindner, C., Schmidt, F. T. C., Edelsbrunner, P. A., Schaefer, C. D., Deutschländer, R., Schauber, S. K., Krammer, G., Wolff, F., **Hui, B.**, Fischer, C., Bardach, L., Nagengast, B., & Hecht, M. (2024). On the role of variation in measures, the worth of underpowered studies, and the need for tolerance among researchers: Some more reflections on Leising et al. from a methodological, statistical, and social-psychological perspective. *Personality Science*, *5*. <https://doi.org/10.1177/27000710241257413> <img src="images/open-access.png" width="20" height="25"/>
 
 <!-- -->
 
