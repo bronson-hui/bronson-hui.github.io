@@ -3,8 +3,13 @@ title: "Service"
 ---
 
 ## Ongoing Roles
-  * Conference Chair, Vocab[at]UMD 2025
-  
+
+  * Associate Editor
+    * *Digital Studies in Language and Literature* (2024 – present)
+    
+  * Senior Editorial Advisor
+    * *Vocabulary Learning and Instruction* (2025 – present)
+    
   * Editorial board member
     * *TESOL Quarterly* (2023-2025)
     * *Studies in Second Language Acquisition* (2024-2026)
@@ -29,6 +34,7 @@ title: "Service"
       * National Science Centre (Poland)
   
 ## Past Roles
+  * Conference Chair, Vocab[at]UMD 2025
   * Co-strand coordinator for the Language, Cognition and Brain Research strand for AAAL, 2023. 
   * Co-editor of the Michigan State University Working Papers in Second Language Studies (2018 – 2019);
   * Coordinator Donuts and Distribution (Quantitative Methods Reading Group, SLS, MSU) (2018 – 2019)
