@@ -11,6 +11,8 @@ navbar:
       href: teaching.html
     - text: "Service"
       href: service.html
+    - text: "Pay It Forward"
+      href: pif.html
 
 output:
   html_document:

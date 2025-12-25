@@ -1,0 +1,26 @@
+---
+title: "Pay It Forward Quantitative Workshops and Consulting"
+---
+
+Welcome to the Pay It Forward Quantitative Workshops and Consulting page! We are dedicated to providing resources and support for researchers in second language research and related fields. All services are offered on a pay-it-forward basis, meaning that teh services are free, but participants are asked to make a donation to a charity of their choice. They are also expected to contribute to the community by sharing their knowledge and skills with others. See the individual workshop pages for more details.
+
+## Workshops
+
+### Coming Soon
+Stay tuned for upcoming workshops on quantitative data analysis and open science practices in applied linguistics!
+
+### Past workshops
+2025 - Learn the basics of R: <https://2025rworkshop.github.io/r-workshop/>
+
+2021 - Learn the basic of R: <https://bronson-hui.github.io/payitforwardworkshops/index.html>
+
+## Statisical Consulting
+We offer statistical consulting services for researchers in second language research and related fields. Our services include:
+
+- Data analysis planning
+- Statistical modeling
+- Data visualization
+- Interpretation of results
+- Manuscript preparation
+
+Details to be announced soon!
