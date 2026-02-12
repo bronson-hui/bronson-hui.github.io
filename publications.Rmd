@@ -25,15 +25,15 @@ Chan, R., Cayado, D., & **Hui, B.** ([in-principle acceptance](https://onlinelib
 
 <!-- -->
 
-28. \^ Tytko, T., **Hui, B.**, & Pandža, N. (in press). The effect of multimodal input on L2 learners’ reading comprehension: A pre-registered, eye-tracking study. *The Modern Language Journal*.
+28. **Hui, B.** & Godfroid, A. (2026). Listening, reading, or both? Rethinking the comprehension benefits of reading-while-listening. *Language Learning*. *76*(1), 311-351. <https://doi.org/10.1111/lang.12721> <img src="images/preregistered.png" width="25" height="25"/> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/fqkdy/))
 
 <!-- -->
 
-27. Godfroid, A. & **Hui, B.** (2025). Eye-tracking research in instructed second language acquisition. *Language Teaching*. *58*(4), 474-504. <https://doi.org/10.1017/S0261444825000102> <img src="images/open-access.png" width="20" height="25"/>
+27. \^ Tytko, T., **Hui, B.**, & Pandža, N. (2026). The effect of multimodal input on L2 learners’ reading comprehension: A pre-registered, eye-tracking study. *The Modern Language Journal*. Advanced online publication. <https://doi.org/10.1111/modl.70023>. <img src="images/preregistered.png" width="25" height="25"/> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/hq57n/))
 
 <!-- -->
 
-26. **Hui, B.** & Godfroid, A. (2025). Listening, reading, or both? Rethinking the comprehension benefits of reading-while-listening. *Language Learning*. Advance online publication. <https://doi.org/10.1111/lang.12721> <img src="images/preregistered.png" width="25" height="25"/> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/fqkdy/))
+26. Godfroid, A. & **Hui, B.** (2025). Eye-tracking research in instructed second language acquisition. *Language Teaching*. *58*(4), 474-504. <https://doi.org/10.1017/S0261444825000102> <img src="images/open-access.png" width="20" height="25"/>
 
 <!-- -->
 
@@ -56,7 +56,7 @@ Chan, R., Cayado, D., & **Hui, B.** ([in-principle acceptance](https://onlinelib
 21. Suzuki, Y., Maie, R., & **Hui, B.** (2025). Research timeline: Automatization in second language learning. *Language Teaching*. Advance online publication. <https://doi.org/10.1017/S026144482500059X> <img src="images/open-access.png" width="20" height="25"/>
 
 <!-- -->
-20. \^ Wu, Z., \^ Jia, R., & **Hui, B.** (2025). Saving the Reliability of Inhibitory Control Measures?  An Extension of Huensch (2024) and Hui and Wu (2024). *Studies in Second Language Acquisition*. Advance online publication. <https://doi.org/10.1017/S0272263125101095> <img src="images/open-access.png" width="20" height="25"/>
+20. \^ Wu, Z., \^ Jia, R., & **Hui, B.** (2025). Saving the Reliability of Inhibitory Control Measures?  An Extension of Huensch (2024) and Hui and Wu (2024). *Studies in Second Language Acquisition*. *47*(5), 1435-1455. <https://doi.org/10.1017/S0272263125101095> <img src="images/open-access.png" width="20" height="25"/>
 
 <!-- -->
 

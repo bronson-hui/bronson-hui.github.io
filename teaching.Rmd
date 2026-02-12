@@ -9,7 +9,7 @@ title: "Teaching"
       + Woodward, Jill
       + Wu, Congyao
       + Simmons, Stefaine (completed)
-      + Tytko, Tetiana (completed)
+      + Tytko, Tetiana (completed, see [Tytko et al., 2026](https://doi.org/10.1111/modl.70023))
       + Zhang, Danni
       
   + Secondary qualifying papers (research proposal)
