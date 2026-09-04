@@ -11,45 +11,52 @@ title: "Publications"
 
 **Hui, B.** & Pandža, N. (Eds). (under contract). *The open handbook of quantitative data analysis in applied linguistics (Part 2): From R script to manuscript*. [Applied Linguistics Press](https://www.appliedlinguisticspress.org/home).
 
-Rogers, J. & Hui, B. (Eds). (in prep). Online experimentation in second language research. *Research Methods in Applied Linguistics*.
+1. **Hui, B.** & Kessler, M. (Eds). (2025). Connecting multimodal learning processes and outcomes in CALL. *Language Learning & Technology.* <https://www.lltjournal.org/collection/col_10125_111242/>. <img src="images/open-access.png" width="20" height="25"/>
 
-1. **Hui, B.** & Kessler, M. (Eds). (2025). Connecting multimodal learning processes and outcomes in CALL. *Language Learning & Technology.* <https://www.lltjournal.org/collection/col_10125_111242/>.
+2. Rogers, J. & **Hui, B.** (Eds). (2026). Online experimentation in second language research. *Research Methods in Applied Linguistics*.<https://www.sciencedirect.com/special-issue/103HKCNGN6R>. <img src="images/open-access.png" width="20" height="25"/>
 
 ## Journal articles
 
 Chan, R., Cayado, D., & **Hui, B.** ([in-principle acceptance](https://onlinelibrary.wiley.com/page/journal/14679922/homepage/registered_reports.htm)). Covert activation of bilinguals' non-current language and implicit learning. *Language Learning*. <img src="images/preregistered.png" width="25" height="25"/>
 
 <!-- -->
-
-29. \^ Malone, J. & **Hui, B.** (in press). Audiovisual (a)synchrony: Reading ahead as a mechanism for L2 vocabulary processing and learning benefits of reading while listening. *Studies in Second Language Acquisition.*
-
-<!-- -->
-
-28. **Hui, B.** & Godfroid, A. (2026). Listening, reading, or both? Rethinking the comprehension benefits of reading-while-listening. *Language Learning*. *76*(1), 311-351. <https://doi.org/10.1111/lang.12721> <img src="images/preregistered.png" width="25" height="25"/> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/fqkdy/))
+31. **Hui, B.** & Godfroid, A. (2026). Listening, reading, or both? Rethinking the comprehension benefits of reading-while-listening. *Language Learning*. *76*(1), 311-351. <https://doi.org/10.1111/lang.12721> <img src="images/preregistered.png" width="25" height="25"/> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/fqkdy/))
 
 <!-- -->
 
-27. \^ Tytko, T., **Hui, B.**, & Pandža, N. (2026). The effect of multimodal input on L2 learners’ reading comprehension: A pre-registered, eye-tracking study. *The Modern Language Journal*. Advanced online publication. <https://doi.org/10.1111/modl.70023>. <img src="images/preregistered.png" width="25" height="25"/> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/hq57n/))
+30. \^ Jia, R., \^ Tytko, T., **Hui, B.** (2026). From modailities to meaning: The mediating role of integrative saccades in L2 reading of picture books. *Digital Studies in Language and Literature.* Advance online publication. <https://doi.org/10.1515/dsll-2025-0028> <img src="images/open-access.png" width="20" height="25"/>
 
 <!-- -->
 
-26. Godfroid, A. & **Hui, B.** (2025). Eye-tracking research in instructed second language acquisition. *Language Teaching*. *58*(4), 474-504. <https://doi.org/10.1017/S0261444825000102> <img src="images/open-access.png" width="20" height="25"/>
+29. \^ Malone, J. & **Hui, B.** (2026). Audiovisual (a)synchrony: Reading ahead as a mechanism for L2 vocabulary processing and learning benefits of reading while listening. *Studies in Second Language Acquisition*, *48*(2), 350-372. <https://doi.org/10.1017/S0272263126101703> <img src="images/preregistered.png" width="25" height="25"/> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/cpbqd/))
 
 <!-- -->
 
-25. **Hui, B.**, Godfroid, A., & Elgort, I. (2025). A construct validation study of time-sensitive word knowledge measures. *Applied Linguistics*. Advance online publication. <https://doi.org/10.1093/applin/amaf037> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/uyfh5/))
+28. \^ Malone, J., **Hui, B.**, Pandža, N., & \^ Tytko, T. (2026). Eye movements, item modality, and multimodal L2 vocabulary learning: Processing and outcomes. *Language Learning*, *76*(2), 528-564.  <https://doi.org/10.1111/lang.70007> <img src="images/preregistered.png" width="25" height="25"/> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/9n8gx/))
 
 <!-- -->
 
-24. **Hui, B.** & Kessler, M. (2025). Connecting multimodal learning processes and outcomes in CALL: Introduction to the special issue. *Language Learning & Technology*, *29*(3). <https://doi.org/10.64152/10125/73644> <img src="images/open-access.png" width="20" height="25"/>
+27. Rogers, J. & **Hui, B.** (2026). Toward more rigorous and transparent online experimentation in applied linguistics: An introduction to the special issue. *Research Methods in Applied Linguistics*,*5*(3), 100340. <https://doi.org/10.1016/j.rmal.2026.100340> <img src="images/open-access.png" width="20" height="25"/> 
 
 <!-- -->
 
-23. \^ Jia, R. & **Hui, B.** (2025). Modeling relationships between learning conditions, processes, and outcomes: An introduction to mediation analysis in SLA research. *Studies in Second Language Acquisition*. *47*(3), 912-947. <https://doi.org/10.1017/S0272263125100867> <img src="images/open-access.png" width="20" height="25"/>
+26. \^ Tytko, T., **Hui, B.**, & Pandža, N. (2026). The effect of multimodal input on L2 learners’ reading comprehension: A pre-registered, eye-tracking study. *The Modern Language Journal*, *110*(1), 210-239. <https://doi.org/10.1111/modl.70023>. <img src="images/preregistered.png" width="25" height="25"/> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/hq57n/))
 
 <!-- -->
 
-22. \^ Malone, J., **Hui, B.**, Pandža, N., & \^ Tytko, T. (2025). Eye movements, item modality, and multimodal L2 vocabulary learning: Processing and outcomes. *Language Learning*. Advance online publication. <https://doi.org/10.1111/lang.70007> <img src="images/preregistered.png" width="25" height="25"/> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/9n8gx/))
+25. Godfroid, A. & **Hui, B.** (2025). Eye-tracking research in instructed second language acquisition. *Language Teaching*. *58*(4), 474-504. <https://doi.org/10.1017/S0261444825000102> <img src="images/open-access.png" width="20" height="25"/>
+
+<!-- -->
+
+24. **Hui, B.**, Godfroid, A., & Elgort, I. (2025). A construct validation study of time-sensitive word knowledge measures. *Applied Linguistics*. Advance online publication. <https://doi.org/10.1093/applin/amaf037> <img src="images/open-data.png" width="25" height="25"/> <img src="images/open-materials.png" width="25" height="25"/> <img src="images/open-access.png" width="20" height="25"/> ([Materials, data, and R code](https://osf.io/uyfh5/))
+
+<!-- -->
+
+23. **Hui, B.** & Kessler, M. (2025). Connecting multimodal learning processes and outcomes in CALL: Introduction to the special issue. *Language Learning & Technology*, *29*(3). <https://doi.org/10.64152/10125/73644> <img src="images/open-access.png" width="20" height="25"/>
+
+<!-- -->
+
+22. \^ Jia, R. & **Hui, B.** (2025). Modeling relationships between learning conditions, processes, and outcomes: An introduction to mediation analysis in SLA research. *Studies in Second Language Acquisition*. *47*(3), 912-947. <https://doi.org/10.1017/S0272263125100867> <img src="images/open-access.png" width="20" height="25"/>
 
 <!-- -->
 
